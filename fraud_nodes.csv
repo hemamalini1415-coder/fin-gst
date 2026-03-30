@@ -1,0 +1,1201 @@
+id,label,risk_score,sector
+53ROOYEPEGCLHHI8J4,"Upadhyay, Pandey and Prashad",0.9121,Construction
+07EIPETNBVKBKRP5I4,Divan-Gokhale,0.9313,Retail
+97SYYHANDGEXQLN3U2,Wason-Bains,0.9615,Services
+49JJXTSPDBFDJNZ9R7,Sant-Din,0.9343,Trading
+16SNPSETUREBWFN4Y5,Purohit-Mannan,0.9063,Manufacturing
+54LRLZOGWSHMNMT2N2,Ahuja and Sons,0.9675,Trading
+22TMWGCLBTBDICC5J6,Venkataraman and Sons,0.9629,Trading
+34FZIQFWAPGQTZQ1N2,Koshy and Sons,0.9111,Manufacturing
+97NNSPGOTBRQRRL1Y0,Lad PLC,0.9135,Retail
+28FGPGZQVQDKRRK0C0,"Halder, Malhotra and Raja",0.9331,Manufacturing
+13MMBYCJDJVIXZX5I1,Subramanian PLC,0.9228,Trading
+65YCEIZBEZFDISN4R6,"Hayre, Dalal and Khurana",0.9139,Services
+67YVKBCMMLSWDJK7O2,Sharma LLC,0.9392,Retail
+09JABXPMJWRJUPR0K4,Kamdar-Sankar,0.8782,Retail
+96NFXEDGNGIJLBY3P8,"Munshi, Srivastava and Prabhakar",0.908,Manufacturing
+10XNPRCRZFQBJBM0L7,Bakshi-Kumar,0.9326,Trading
+66UPNKEHUDYBNLF9Y1,Garg and Sons,0.9482,Trading
+62BCHXCIDAYWMOM2S6,"Oza, Vaidya and Tank",0.9174,Construction
+19BLTBPTKRGSABT7W7,"Loyal, Upadhyay and Hegde",0.9117,Construction
+60CUXMMFUYPRIAT0H1,"Khare, Dixit and More",0.8856,Services
+05CXXAMZBBMNDWE1Z8,"Saha, Walla and Borde",0.9276,Trading
+68CDCHJIIFHBEHB7S6,Chaudhuri Inc,0.8853,Services
+29CLHXPLQSLMPLE1B6,Pradhan-Basak,0.9575,Construction
+86IEFKQUWEWCLNG1U2,Sarin PLC,0.9425,Services
+96RLUIAPADHJITZ5V6,Joshi and Sons,0.9199,Retail
+53EIUDWOVAUKSTF1Q6,"Mann, Hari and Dixit",0.8881,Retail
+77FMVXJMIIWLXSX3A2,"Memon, Contractor and Kakar",0.8994,Retail
+94RSAVXIJKWSPOR9V0,Tata Group,0.9741,Services
+97HKUYMPQIXEIWG4G6,Loke-Bali,0.9061,Retail
+35IUHNOUJVWMQQL1F7,Raja-Karan,0.8489,Services
+03ESIMJIAHNIXZT7G9,Dhar PLC,0.9399,Construction
+86DGZUKTYXTKADV0V5,Prabhu-Rajagopal,0.9171,Construction
+54BDWYQOFLFAKHH6K6,Ratta LLC,0.9029,Manufacturing
+55SMNJGXAYBIYOF2S5,"Dash, Mutti and Mohan",0.9225,Trading
+81ZSOHPEDHKPHLS9E9,Kamdar-Shanker,0.9342,Manufacturing
+80AWRFJEDGNENQL4M7,Banik LLC,0.9039,Services
+74AYZYXFKWOWXRP5M9,Om and Sons,0.9154,Services
+06GTNWQKLGBZSYZ7P4,Karan LLC,0.8718,Retail
+35YPZDHBUGLRECO3I1,Savant-Vala,0.9303,Trading
+46QHZEXOOCVUFAI6D7,Ramakrishnan Inc,0.8964,Services
+59OPBNBIPNFMLAU8H7,Varughese PLC,0.9098,Manufacturing
+57VFDPEFHAJRHTX6Q5,Lall Group,0.9307,Construction
+70HPWSWKJXOTFFE4M6,"Sundaram, Aurora and Loke",0.9732,Trading
+75XNUUJNAXHFWBO1Q0,Savant-Ramanathan,0.9574,Trading
+13NPXMVITOBFDOU3P2,Divan and Sons,0.9141,Services
+02XMSVSOMTYPRVU9G2,"Chopra, Bakshi and Dugar",0.9148,Construction
+67CBTQVNTMQQLTE1T9,Borah-Chhabra,0.9261,Retail
+36FORLVTSYKEQYV8X4,Doctor-Sidhu,0.9141,Services
+66EPGBXVARSBKRK8Z5,"Kala, Dara and Khare",0.9245,Trading
+06HZUXICVIJRUUL9F9,Rai Inc,0.9113,Construction
+60MAHOBWHIPUFSR4M7,Chauhan-Boase,0.939,Retail
+79INSLWSEKNSFEX8W1,"Sinha, Mitter and Thaman",0.8957,Services
+32GWEOTOPMAGBUL3D5,"Wali, Majumdar and Swamy",0.9133,Services
+15TDBSZZVPWPNPR3G4,Sani and Sons,0.9412,Retail
+54CKZJHSIDLSIII0Q6,"Narasimhan, Kurian and Gole",0.9698,Manufacturing
+32LPGRXNRPCTYSD9C6,Raja-Apte,0.9033,Retail
+51CUNCBWWPJWHOV0J4,"Tata, Panchal and Ramanathan",0.9337,Trading
+52KBNEFREUWKZFS3J9,Behl Inc,0.902,Retail
+80FHIJGSGWDIRCX8L2,Kade PLC,0.8996,Retail
+98XGURPIXVWSPIL1Y8,Ram-Wadhwa,0.9416,Trading
+47VEULGWVHUIOKV3W0,Kara-Tak,0.9426,Trading
+34UHBCOITHRKXEF6Q9,Sagar-Chatterjee,0.9203,Retail
+17AGGFRHXYYANBM5X0,"Nagy, Khosla and Dada",0.9002,Manufacturing
+15GJMSWLBYXZCKI6J4,Sant-Lanka,0.9136,Trading
+64ZYYILQLLGCNZF4I8,"Hora, Sharma and Barad",0.9529,Retail
+40YZJJBQYYVYMBM8E0,Baria-Bhagat,0.9389,Retail
+73FENXPBJCJBNWW4X4,"Mander, Zachariah and Zachariah",0.8997,Construction
+10KAAZTCUDLJZQX4B1,Goswami Inc,0.9434,Services
+94PSGXCUNZHOPJC6G7,"Sachdev, Goswami and Dube",0.9403,Services
+46YPLWCPZUWDWZU6E7,Chacko-Balan,0.9195,Trading
+73DBWNDKORKUVFF9P8,Bandi and Sons,0.919,Manufacturing
+19JBSFZPCZUUCNJ8M5,Srinivasan Inc,0.9389,Construction
+99XUZBXCUOQIHKW4H0,"Choudhary, Ramesh and Bahl",0.901,Manufacturing
+95RKIMQQVHAEAES4H1,Shankar LLC,0.956,Services
+39YFLDJMRINPFXW7L8,Bedi Inc,0.9423,Retail
+69EFABFROEALYOH8Y0,Parekh-Garde,0.9391,Trading
+68VUSXRSMSRQKVQ3W9,Swaminathan-Verma,0.8837,Manufacturing
+67FAMCMLTKXRDTS5Y0,"Nori, Gulati and Misra",0.9333,Construction
+92PVQCGFKRTJLWT3M7,Lad Inc,0.8895,Services
+49KMJWELUYJMJVL2G3,Loke Group,0.8975,Retail
+74EVWDHNTBGBNPV1O4,Konda-Lata,0.8655,Retail
+33DXWBFZPRVZZGP1P7,Shere and Sons,0.8699,Retail
+82JPGFJUBKRDKGH7W6,"Das, Nazareth and Gole",0.9107,Retail
+66VRFYKRYPEDBFF6R6,"Patla, Krishnan and Handa",0.91,Retail
+01GKLEEXZTTTKOT1F2,Sen-Chaudhry,0.9513,Construction
+29GEFFQJNHOLUOW2Q0,"Soni, Lad and Bajaj",0.9633,Retail
+26QTQAATTOGBJEG0H4,"Pathak, Rai and Ganesh",0.9081,Retail
+48JCEQCNFGNGLWY9P1,Luthra PLC,0.9514,Manufacturing
+60YJSDGKQEBQJSM8V5,Mahal-Sahota,0.9215,Construction
+93JJMJIZEMSYWOT8X5,Goda Inc,0.9736,Retail
+81FLPEBCKEZZSHF4B3,D’Alia-Andra,0.9229,Construction
+73XEQNWHBXKCPHG8U0,Muni-Zachariah,0.9241,Trading
+06XFYRQBZJZBXUF4R2,"Gade, Bains and Chadha",0.9074,Retail
+93ODTJFNUUPSCDA8C6,"Shankar, Boase and Wagle",0.9151,Manufacturing
+46OGPEDTBRTOSGH4C8,Babu-Ravel,0.9274,Services
+97OWVYKJWAIQSEE5C7,Dar Group,0.9177,Manufacturing
+28LRRAAQULLKNJQ8B5,Trivedi PLC,0.9805,Services
+11AEVTIDHOTPOBB4G2,Balan-Dalal,0.9076,Manufacturing
+52FCRNUTWCVOSBD9N1,Peri Ltd,0.8822,Trading
+41APPDMRHTTKRRU6U5,"Nayak, Anand and Kaul",0.8939,Services
+35OHQYQYVFZEIXA2X3,Ben-Savant,0.8655,Trading
+83LQEIWHUUQEFIZ7Q8,"Kade, Yohannan and More",0.92,Construction
+64UQVGNZXIIFHFS5G1,Srinivas and Sons,0.9828,Services
+88PTWETSUSZVGPL1A3,Nazareth Ltd,0.9822,Services
+58XEDONOZPMHJAC3M6,"Padmanabhan, Dasgupta and Ramesh",0.9612,Trading
+77JHXVSJIWGBYAC6V5,Bose Ltd,0.9321,Construction
+14ZJPUMXVAFALFO7J7,"Sibal, Narang and Vohra",0.9226,Services
+16MEQQYDEDFTKEG9N4,"Nadig, Bhagat and Dutta",0.9267,Trading
+82TWHAILITIIVMY9N2,Venkatesh-Dora,0.9102,Services
+21KRSPOZGLUGLPV4C7,"Sane, Dutt and Lala",0.8969,Construction
+70LSPRQGXSIMSGV2X1,Nagarajan-Varkey,0.8945,Trading
+23AGSXGDEBRBRSF1I9,Mohanty LLC,0.9215,Retail
+24AHBYOTWILTARO9Y8,"Nagi, Mittal and Gara",0.9017,Construction
+69UECUZFKHKGKFP0U3,"Bawa, Kakar and Bhavsar",0.8952,Trading
+52OKMCLJSENVKBV8J8,Dass-Deshpande,0.8953,Manufacturing
+38BERHVRRASDMYV1C3,Kuruvilla Inc,0.9047,Services
+47GMEGWAMWCLTUJ8Q9,Bora-Kibe,0.9374,Services
+29MPLXQRSJFFSNR0O9,Vyas-Seth,0.9114,Construction
+84EJPOAJSXSEAQZ3G3,Bhardwaj-Ravel,0.9326,Trading
+42HRRFLAFANOBPM5D0,Balay Group,0.8919,Retail
+78JZHWZBWZCNHEH5Q5,"Sarma, Kant and Varughese",0.9442,Retail
+05CJLRXXVKZCDCS2N6,Lanka Ltd,0.8865,Services
+55NCBSQEEQDYAIG5T5,"Karan, Ahuja and Seth",0.8979,Trading
+06OTDUGOJHNSXCZ0B8,Pillai-Deshpande,0.9626,Services
+04UFDFSIZQEOHLD8Y4,Ghosh Inc,0.9243,Trading
+79ULDBLTWEKOREJ8N8,Koshy-Vyas,0.9017,Manufacturing
+22VIKLENXOLMKVS8W5,Murty and Sons,0.9276,Construction
+99FKKXOYPQXQLHT2L7,Rout LLC,0.9254,Trading
+15FBFJTSGVKQQQI7P3,Nori-Sandal,0.916,Services
+34MFACUISSZXYBS1P7,"Mahal, Prakash and Mann",0.9186,Trading
+44YSOTDUJIXOAOH2Q1,"Maharaj, Sangha and Kashyap",0.9103,Trading
+24UXUQRNDKGCTHQ6A7,Vaidya PLC,0.8815,Trading
+12ZMDIXSZMSAZFM1A7,Iyengar-Handa,0.9045,Trading
+82QPCLVGTLMUDZF1F5,"Mittal, Bhalla and Mani",0.9411,Construction
+20NKUUJKBDGNTZP8Y7,Randhawa-Barad,0.9429,Retail
+60FCKXVTLERBCBQ3Y1,Chaudry-Ahluwalia,0.8958,Trading
+31UJAPNQSPYISIH2G1,Sheth-Tak,0.9263,Retail
+95VHBFSAVOCJOBP4G4,"Jain, Chaudhry and Karnik",0.9326,Manufacturing
+45FRBQGPZQRBTEM2J6,Bora and Sons,0.9679,Retail
+92EDJEPZTKAUWCB3X7,"Saraf, Deshmukh and Dara",0.9236,Manufacturing
+75VMERVRMJFAITL1Y7,Sahni-Vala,0.9033,Services
+73OXNHPXVJQEZJW8Q3,Wali Group,0.9195,Construction
+56WDINJOQCQJEHT6N7,"Rajan, Sachdev and Shetty",0.9204,Trading
+51IAKBGBEJAIGLP0N5,Shukla LLC,0.8857,Manufacturing
+08WEYSDULGUHYCY2B5,Nagi-Buch,0.9276,Construction
+89YGJFLHDHXZMNQ2S7,Peri Group,0.9011,Manufacturing
+66VUJUQCABLWVRZ0Q5,Apte PLC,0.9558,Construction
+79NHNQDODWMMEYO6P9,"Das, Shanker and Sagar",0.9001,Manufacturing
+22FTFOVXDQXNPLU6M3,"Gade, Choudhry and Ghose",0.9118,Retail
+00WHYFMJXYKBYMA0O7,"Yadav, Choudhury and Tata",0.8868,Retail
+60USJGDKQEFKEYT7E4,Kibe PLC,0.8885,Trading
+57KYVMFNLORAXPA0W0,Kibe-Narayan,0.9297,Services
+43MQFVABYJUOAAC0I2,Natarajan Ltd,0.9632,Construction
+89HLHRXTUVFUTRZ9J1,Parmer-Sane,0.9207,Manufacturing
+14PZPWPBTMVKIZF0S5,"Krishnamurthy, Sane and Devan",0.9539,Services
+68BHZTQLXTUXQEV2O2,Tara-Sastry,0.9325,Manufacturing
+17PYNNNXXCEKWUK1C3,Keer-Mohan,0.9245,Services
+96HDJFVSCKNGYMR3C0,"Bhasin, Dara and Raman",0.9767,Construction
+87NKIPYRZJIUYYI5I5,"Pall, Sur and Sachar",0.879,Manufacturing
+83ZNKWAIGMWXRXO3A3,Issac-Taneja,0.9231,Retail
+00MEEHQLFKXVASL4Q8,Jha-Subramanian,0.9095,Trading
+01CFRAARSNGNFTS3F0,Bajwa Inc,0.9034,Retail
+35MEOJFGRRNFXWZ3Z2,Hegde-Kothari,0.861,Manufacturing
+20BWTUCTIVQSSXB0P3,Lad-Luthra,0.9025,Retail
+69CZQBRUDXKUJBG6W3,"Date, Rao and Kara",0.8781,Services
+11JFPRAJUQNQEHD5G8,"Kurian, Sarkar and Wable",0.9383,Services
+24TPLSPITBFONJD4A0,Shan-Krishnan,0.9293,Services
+78ZCOMSJUHLICWL3G9,Kapoor-Mahajan,0.892,Trading
+34YVFWUQZBDQTQY5P2,"Bala, Khatri and Sarna",0.9771,Retail
+37QKGUMLPHTTJOP6L6,Sarma and Sons,0.9569,Retail
+93DAOACBPLSMNQS5W3,"Chadha, Pal and Bajaj",0.905,Construction
+69ZKQNIJXVGXUNM5A7,Guha-Sharma,0.987,Construction
+33OGPIIYHKPIASG7V4,Kashyap Ltd,0.932,Trading
+50HVDYNTFWMOGYK4D3,Chaudry-Shukla,0.8919,Retail
+38FSKCCYQXMJRDL3U2,Varty LLC,0.9287,Construction
+76LWOEXNPUNJRGW4W1,"Ravel, Sengupta and Chhabra",0.9037,Construction
+36FFPUKYOMHLHOJ1S6,Dasgupta-Varughese,0.9365,Services
+45SOVKMZJIKOFBT8A5,Banik-Soman,0.9459,Manufacturing
+97XTIPVKRHNMHRF7E6,Varghese and Sons,0.878,Manufacturing
+29ENIIRYOYPNKRY4H6,"Babu, Handa and Dewan",0.933,Retail
+87SBBDPAQGMJDXP7X8,"Nigam, Date and Patla",0.9201,Manufacturing
+70OPERIPMEWTFZS7D5,"Mand, Chada and Anne",0.9316,Trading
+65IKHURDSNLOQCT1G3,Chakraborty-Thaman,0.9126,Retail
+11PGVGNPEFUGMMA0R4,Saran-Barad,0.9651,Trading
+08WSNIFQSOQPBRA7Y1,Roy-Dixit,0.9423,Retail
+92FKMPJIFDOLMTG4O1,Barad-Om,0.937,Trading
+89MOOBXEWIZYXSO9N9,"Raju, Patla and Dave",0.9121,Trading
+88GSKOQYOQOCCJY3Z0,Divan Group,0.9108,Retail
+77YBTTUBKTTKVNY8B2,Kurian PLC,0.8923,Retail
+44SWBOIGAHCETPN6Y8,Apte Ltd,0.9411,Construction
+09IEWYORHKUKTXI1Q0,Ramaswamy Inc,0.9109,Retail
+42JZGVRWHGTVATQ1R1,Bakshi Group,0.9607,Construction
+09GSYKOUXKHIITX8U0,Misra PLC,0.9543,Trading
+73NPYWANBNKDEHX9N8,Dayal-Swaminathan,0.9316,Manufacturing
+34IUVFRDXUKEFVV9X2,Chandran-Bawa,0.9257,Trading
+85FMVBKZDJQICLU4T8,Pau Inc,0.9303,Manufacturing
+03VPLZZMORGPDZF4M1,"Nayak, Dugal and Mangal",0.921,Services
+36KDOPXARETIDWY8H3,"Palla, Nagy and Saini",0.9264,Retail
+26INUXRNRYZQTJX3J2,Reddy-Dhar,0.9243,Services
+07GYSJAQCIHDWZE5Z9,Sidhu-Ganguly,0.9027,Services
+86IPGTFODZKCRJH9V0,Kala-Chaudhary,0.9199,Services
+30MHPHXELWQFJVQ6U3,Sarin Group,0.9684,Services
+26MOEQLSJSGJBJC0Z4,Muni-Gour,0.9292,Manufacturing
+96TSSQVSKJRLNFP9T0,Dhillon-Chacko,0.8985,Retail
+80YKLOFTRZGECJU0T1,Pillai PLC,0.9235,Manufacturing
+86AMEFDAEXKHMPA8L3,"Bhatia, Dalal and Saha",0.924,Services
+80IZSWSHJWTICMA6C3,Yadav LLC,0.8984,Manufacturing
+62GJXQMIMDGAPJO3Y1,Mannan-Arora,0.9211,Retail
+85QCVOPBHDWJDHD1F0,"Doctor, Krishna and Agrawal",0.8741,Construction
+97OWUIAUFTSXIMB3Q3,Pall-Gill,0.9507,Trading
+17QGULGEPQIUIPD1G9,Merchant-Kashyap,0.9362,Trading
+82ZOQOXLPZGOFAS8K3,"Deol, Varma and Chad",0.9308,Services
+12DVSCTPOJORQWT8Y6,Narasimhan-Mangat,0.8914,Trading
+97TWLIGPUFKMPRW8U6,Narasimhan Ltd,0.941,Trading
+01XEOCTPGIFDMBT6L9,"Sha, Chauhan and Rana",0.9414,Manufacturing
+16PJCLLPYFNWNVU4L1,"Karpe, Choudhury and Bhalla",0.9553,Manufacturing
+35CEDKAHAAYZLGL7C3,Andra Ltd,0.8764,Services
+49CVZIZCFMWXMGT3V1,Kala-Issac,0.9148,Construction
+62GKUGWGNUUQKAD6N1,"Mukhopadhyay, Bhatt and Rao",0.954,Trading
+98XSWTIGMYTKYQZ2Z7,Sandhu and Sons,0.8632,Retail
+81GKFCZFKATGPHN0T7,Badal PLC,0.9228,Trading
+40EHEASADAPORLZ9Z8,Balay-Dubey,0.9491,Manufacturing
+63VYCSFXKZRKRLI7K5,Mohanty Group,0.9266,Trading
+04DIYYDRHUCFPVY3A6,"Sheth, Gill and Mangat",0.975,Manufacturing
+60PRDXBHXVVMOEC1S9,Datta PLC,0.8711,Retail
+83FUXLKFZZSOYLI3H0,Manda-Mistry,0.9084,Construction
+73AUVPCPDJWXLBV1C5,"Talwar, Rajagopalan and Bassi",0.9441,Manufacturing
+43QVYLBYFXIVXRY3O9,"Chawla, Datta and Mitra",0.8941,Trading
+48PBNXHLWAYYZGD8L3,"Biswas, Sharma and Sood",0.9444,Trading
+77YMFPUOHLUETTG3X5,Bandi-Mani,0.9257,Services
+64HMQHVFQLXHZRH1E4,"Kuruvilla, Chakraborty and Sampath",0.8982,Trading
+69SCGQYXVLEDQRM4S5,Chad-Bava,0.9709,Trading
+01VMKAJPXPVQLBA8C6,Prashad-Bhatt,0.9323,Retail
+11ZGQOCRFLJYRHG0C9,Divan and Sons,0.9068,Manufacturing
+67LXIQLEZUTLSJE0G8,Das-Prabhu,0.9061,Trading
+96PJHWTCWPLFGZV6W9,"Raja, Kanda and Chandran",0.9434,Services
+31CIVIZCBMHZMZP7J9,"Parsa, Prabhu and Kadakia",0.8797,Services
+67PNKYZVCYCLSRV3T8,Barad and Sons,0.9103,Trading
+26MLJRYTGZNEMSC7Z4,Ganesan-Bora,0.961,Trading
+71WWUZPZPRWENHQ9S2,Sunder-Johal,0.908,Trading
+55DELFFYHTVSFOJ4K1,Peri-Mani,0.9495,Construction
+28JSBSJNEBWVFFH1Q3,"Padmanabhan, Mittal and Chakrabarti",0.9615,Trading
+42AZVUSFRQLUTDB1W3,"Khatri, Patil and Kala",0.9156,Trading
+06KEXQFRMGUCHTL6E4,Gala-Khatri,0.8949,Manufacturing
+44KMHPQNRALHFOL9U8,Badal-Nagarajan,0.8969,Services
+37JULZKTLPWVQDX5P9,"Rout, Hari and Bali",0.9822,Services
+59LQOGOKHEWMRJH5Y5,Vora Inc,0.9134,Retail
+53AZJKUBDUVOAFP3L0,Sanghvi Ltd,0.9326,Manufacturing
+79YETMRVXOMMJBQ3X7,Sinha-Mukherjee,0.9635,Trading
+42LZRHEPBVUAIUG0A0,Nayak-Datta,0.942,Construction
+95YTUKZBCTLNPIZ6Y5,Sani-Patel,0.9157,Manufacturing
+61WXYBGRJWZKQWL4C2,"Pingle, Patla and Madan",0.9097,Trading
+07QRNKCBVFKLXOJ5F0,Sama-Mishra,0.9292,Services
+37WEUWAHMOACVET0J5,Memon LLC,0.9899,Retail
+30OOFMASKUOQHWM2D3,Khalsa-Anne,0.9021,Trading
+16SQDCZURWBMXOK3H8,Johal-Kala,0.9289,Services
+07OHSWGUUGDYLIF5F4,Sodhi-Shan,0.9086,Construction
+80KLQDTXGJCOJRY1J8,Bajwa-Tripathi,0.9143,Trading
+17LQMOUXRCIFNSB5I2,"Vohra, Tara and Rajagopalan",0.8835,Services
+06QSSEXTCQMDNBH3X4,Chandran-Pandey,0.9376,Services
+99QUQWLVQJEWJPQ5V4,Palla PLC,0.911,Retail
+64AYNDGEEKWIGRN3R0,"Keer, Lad and Kapur",0.9289,Manufacturing
+34NJVIVHWTNEDUO4Q8,"Mander, Raghavan and Divan",0.8657,Retail
+46VNBTYXERQZLUS1W1,Varty-Master,0.9571,Manufacturing
+84JDWOPVBOLTWQH7T0,"Tara, Pai and Kulkarni",0.9439,Manufacturing
+63DATHGFTNWJGKW2Q4,"Tak, Pall and Murthy",0.9161,Construction
+22CDFJTJGRGQVWJ0M7,Badami-Hayer,0.9654,Construction
+87ZFNFOBGZSAOWW5K5,"Sagar, Warrior and Nanda",0.9796,Trading
+40XYLPVWFKXGHXC3R3,Mand Inc,0.9191,Trading
+21JPMVELCYCMVRI3B6,"Nagarajan, Borah and Sood",0.8712,Services
+49BDWMFAQCZNDVM7Z4,Cherian LLC,0.9678,Construction
+54KRKMCGNZKRNNR9K4,Balakrishnan-Thakkar,0.9117,Construction
+10QJOPHDURSACUY0U4,Aurora Group,0.9059,Manufacturing
+18WDWILIEYDGJAM3S5,Nayar Ltd,0.8902,Manufacturing
+23MXDNWWOIBTHPD4Z1,"Ahuja, Nair and Kala",0.9487,Construction
+36TINTNGGIMYIPE8Z3,Balan LLC,0.9011,Trading
+10VEVFLAWBLDJJZ5J3,Karan Inc,0.931,Trading
+08QIJKUXNCXIGQT6Y6,"Verma, Ahluwalia and Gill",0.936,Trading
+77QGJLBMBLDMUWH6A9,Naidu Group,0.9482,Retail
+24VCVHESAFTBTKU6N3,Dutt-Nagy,0.9457,Manufacturing
+05BPYHHVEDCKXTN6K2,Pau and Sons,0.9272,Construction
+33XKILKJXEELGRO5G6,"Sathe, Saini and Saraf",0.9093,Retail
+95MQBRGWYIFXIDY4F7,Rege Inc,0.9381,Trading
+12FBKXSAHJCCGEY3T2,"Mitter, Kannan and Parmar",0.9496,Services
+68LPCAIFFTJTGUD6Z6,"Dewan, Swamy and Bajaj",0.9588,Retail
+46REHMDQBMBYHUI6N9,Golla-Devan,0.9809,Trading
+70MKLCYMMDGBTQL0B0,Tank Inc,0.9389,Retail
+99RWNOKQBMWUYCI6Y7,Choudhury-Mane,0.9298,Construction
+47BIIJKYBIEHAIS6E9,Lall-Kari,0.9312,Manufacturing
+53SERQGQRCIYDRG3H1,"Bose, Shan and Mammen",0.9395,Trading
+74OZLLCIOPHVXHI4B9,Aggarwal PLC,0.9496,Construction
+86YUIMHTYGQLXBA2D1,"Biswas, Mani and Roy",0.9296,Manufacturing
+83FCBGHVGECXLSF2B5,Tata and Sons,0.9192,Services
+84VQGJYZHLNKPXK9P1,Om-Lata,0.952,Construction
+82WYVITOTWFAMVQ3Y7,Prabhu LLC,0.859,Services
+83FFLWTHVVXPWUL5I1,"Mann, Hayer and Mani",0.8972,Manufacturing
+55YHACBAHMQKTRZ0R6,Grover and Sons,0.9224,Services
+07NMNUPPNLZOFKH1A1,Sarkar-Muni,0.9423,Services
+45VFQNVUEXRLRBI1M2,Barad-Vala,0.917,Trading
+49FJFVWCYNPBLHT4T2,Lal Group,0.9583,Services
+85ZRBUMPDEFNOVK4S0,Sangha Ltd,0.9106,Services
+37FVTIPVKCUYHXX5V0,Gill Group,0.9459,Manufacturing
+41ZPLKVSPPWWPHH3T9,Sekhon-Venkataraman,0.9705,Retail
+76AJICVSFDHHGOW5W9,"Zacharia, Batta and Ramaswamy",0.931,Services
+23EXMRBSJUIUWOD6Q2,"Halder, Sabharwal and Loyal",0.9219,Services
+17ANUJOHUKIGGQE8K6,Pillai-Mohanty,0.8912,Construction
+79KDZLMSJOXFVFG5V9,Patla-Bhasin,0.891,Services
+47MUQEXZUGNBZDM8J8,Nayak and Sons,0.9694,Trading
+41GVWDBZKWMIJRM9M3,"Parsa, Sidhu and Desai",0.8773,Services
+00VDPSYWEIBJWJW2Z8,Kade-Nadig,0.8926,Retail
+36KESGCNWFZBGCE4D8,Mishra-Lala,0.8881,Services
+38RADZNBTYVUWCN0S9,"Narayanan, Sule and Dayal",0.9315,Services
+60LWEHBMXJWPOOK8W4,Thaker Inc,0.9641,Services
+39SNMNXHIPDBRTE3T9,"Krishnan, Deshmukh and Bakshi",0.9388,Construction
+30AKMMUXTGIOOQJ6B0,Kalla Ltd,0.8861,Trading
+73PCFZZFMDXAZMM3G9,Chada Group,0.9148,Retail
+22RZFSTRYRASDVF8B9,Halder-Kashyap,0.8923,Trading
+27QNOSBCPYCYLGW9L2,"Agarwal, Jani and Vig",0.9099,Manufacturing
+57TVQKPTIINXMMK4B9,Bansal PLC,0.9589,Construction
+32BLJXMJZUJMCWZ1H5,"Dubey, Pal and Kapur",0.9324,Construction
+62ACWLJEXTKMLHJ9R1,"Goyal, Sha and Master",0.9261,Manufacturing
+20CSIRHPSCNSMRB6Q3,"Sodhi, Bhatnagar and Rai",0.9194,Construction
+84QUXKHLXCYDPRM0T5,Pandit Inc,0.9391,Construction
+39FRKBPWUKYBHSL9O5,Iyengar Inc,0.9588,Construction
+82JHWBQUKKGWUPV2D4,"Rama, Nagy and Magar",0.9025,Manufacturing
+04VZXKBRXXZUTCN4W8,Parikh-Dhingra,0.8939,Services
+59GBTISPSGOLQAF8Q7,Gokhale-Raval,0.9447,Trading
+61ZFTSHKQLQRFWI8V8,"Agrawal, Kuruvilla and Mody",0.8763,Retail
+19QURWKTZUUBWXA0D9,Sarma Group,0.9033,Retail
+89EAAKITBSRMJRS5C0,Ben Group,0.8938,Services
+76YZQTSDRXXBAJS7J5,Kunda and Sons,0.9532,Construction
+45ZAFGXQEVGKUCR3X1,Khosla-Bhatti,0.9286,Retail
+22DUUOGFILBOCJQ2L9,Hari Group,0.9227,Retail
+41VAFTPLAQBKERH2J8,Gandhi-Mukhopadhyay,0.9465,Construction
+68DOYKJOYYCDBGN6C0,"Sachar, Randhawa and Sunder",0.9338,Services
+84UHDPJJWFRKKBH3S5,Dara-Soni,0.9567,Trading
+78INAYPFSAGEZXK2E0,"Kibe, Magar and Mahal",0.9318,Construction
+18ZNMWGGVVJYJCI7T5,Ray-Kumer,0.9575,Manufacturing
+23ILNJJOALRXWLL2Y3,Aurora Ltd,0.9671,Services
+91KNDDXJDWDYMVW7I0,Ghose-Nagi,0.8775,Manufacturing
+52CVULKIACEYIVH2S9,Chada Group,0.9327,Construction
+48XRHFSTHTWVLLC1Q7,Walla-Bumb,0.9652,Trading
+18KVIJDMITPLGOF1R0,Venkataraman Ltd,0.9796,Services
+84JFEGNGCTJHHHS0W7,Vyas-Roy,0.8974,Services
+28UIXUHJDLYLPCK4O7,Verma-Sehgal,0.8698,Manufacturing
+08MWDCIQEODWJBD3C9,Thaman LLC,0.9354,Manufacturing
+40RCZFSLIOLOIOB4J0,"Krishna, Ghosh and Rama",0.9496,Manufacturing
+40QLSAHOJTKIXDV3J6,Kadakia-Bhatt,0.9652,Construction
+18CMPZIKHHKDBFH7X3,"Ramachandran, Iyer and Sha",0.9254,Manufacturing
+75ZFNVCMJSAPJFA6I0,Bahl-Rastogi,0.9437,Construction
+48CQNUPTWMVMFGZ6O8,Gupta-Guha,0.9086,Retail
+43LGPNDTNMXGDBV5H8,"Bhandari, Shanker and Rao",0.9359,Services
+93JXMOABAZRMJOQ1R0,Dhar-Doctor,0.9639,Trading
+08DPXQEVGSEDOED6P4,Aurora Group,0.8855,Services
+10HPOSLPXFFUYFF4P1,Nagar-Kant,0.9522,Retail
+95DQANSLGMPLWBN9E3,More Ltd,0.9405,Construction
+61NLHEOKFSQHFZK2P8,Karpe-Doshi,0.9133,Retail
+44JDMBRSBIXKTBX2A8,"Kapur, Brar and Garde",0.9442,Trading
+74BAVPAUKZZVWKX4R2,Dhillon LLC,0.8634,Retail
+20QFDHAMKRMASCJ1G1,Hora and Sons,0.9266,Trading
+50JJFLRCMQSLZYO5R1,Bawa-Sankar,0.9264,Construction
+53XSDNPTTWUHIVS4V8,"Mahajan, Ravi and Lata",0.9066,Manufacturing
+00HPGMPVKYKISQR9I0,"Bajwa, Chandra and Sen",0.9776,Trading
+71WVEBSZIPYZMGT3L9,"Jain, Shanker and Kade",0.9152,Manufacturing
+82LCZDJFFZLQQYL5D0,Raghavan-Sami,0.9244,Trading
+60ICAEZIHBUAIXU1A0,Kashyap Inc,0.9329,Construction
+48SWMJOJLTCJPYY9D4,"Chowdhury, Mani and Swaminathan",0.8873,Manufacturing
+68EESMVDPAVOCRI1N3,Kurian Group,0.8976,Construction
+83TJWPUUKBEWHWF6Y1,Baral Ltd,0.9074,Construction
+20YPGUBYCOOBCOY4Z2,Zachariah PLC,0.9314,Construction
+19AWDLIHHNJSEXJ2A1,Kapadia Inc,0.9324,Manufacturing
+69UGURVPVIBOKAT0N9,Atwal-Dora,0.9301,Retail
+64KMFQZSELCMQTI7N6,"Kashyap, Mahal and Comar",0.8879,Retail
+61LYBNUNXBICQAE0F7,Sengupta-Devi,0.9295,Manufacturing
+15JQRZXRGBIWVQQ0Q0,Dugal-Munshi,0.9783,Construction
+98KCVBWKAQLXDLE7P5,"Dhar, Khatri and Viswanathan",0.9358,Trading
+65NVIORKKJBDJMH0U8,"Krishna, Borah and Sant",0.9235,Trading
+02YNKARBVGGYUFA6J2,"Karnik, Garde and Anne",0.8795,Services
+73QYVYDWJQSHMNE9W5,"Warrior, Shere and Shanker",0.9644,Services
+30SAYBHBYBHNPTM4R4,Mammen-Yadav,0.9325,Construction
+37GFXZQKYLVAXBC3X2,"Sankar, Swamy and Hari",0.936,Manufacturing
+14QXQHLSXMLRVAM8E5,Garg PLC,0.8932,Retail
+97CRJWHNQTLFERD9Z4,Gaba Ltd,0.9125,Retail
+93BUXLNTNDRNRQX9L6,Roy-Grover,0.9194,Manufacturing
+14FBYSESTMIXTKX1U0,Borah PLC,0.8964,Services
+59NBXGTMPWMUDAM4M0,"Kothari, Bir and Borah",0.9304,Manufacturing
+95WKNSJOSDYGHAG5Z2,"Sodhi, Chakrabarti and Srinivasan",0.9335,Retail
+98YOVCSPOTMLCXX5S9,"Chakraborty, Goswami and Kanda",0.9526,Construction
+59KYDLVUIGNZCCS7K3,Divan-Bains,0.9581,Services
+20YBBYPSIDQQXES0T9,Soman-Memon,0.8975,Trading
+75WFENUIJDYICRH2F7,"Hans, Gandhi and Buch",0.9035,Trading
+61PXFICGHZIPVBC7P0,"Dalal, Rout and Gupta",0.912,Manufacturing
+31CTWWHAUANOOFZ2A4,Pant-Varughese,0.9512,Trading
+39BSHVFPPAJXGTB1E6,Narula LLC,0.8676,Services
+18FAFFQNGMEHVRM4K2,Jhaveri Ltd,0.9258,Trading
+29WWBJOUGCVEIBS4D7,"Ghosh, Khatri and Venkataraman",0.9418,Construction
+62JZXXIPVNJXIOX5A8,Tak-Chadha,0.884,Services
+69VWEFKUKDIZHRB8E4,Chaudry Group,0.9308,Services
+89PZAXRJWXLFVLH6C1,"Pai, Jhaveri and Tripathi",0.8974,Retail
+93FQJPNAGCUISDU7G1,Naidu-Aggarwal,0.93,Construction
+69TVOWWVEMJTABS0V1,Dhawan and Sons,0.887,Manufacturing
+39GFQQINQGPQOTD6N3,Dhar LLC,0.9268,Construction
+26ABEXFXVZZQAMA7H6,Vora-Kala,0.9064,Retail
+96ZESSVFWAADUVG0G2,"Sharma, Palla and Pingle",0.9724,Manufacturing
+13ZKVWOABHIYLIY7J8,Ramachandran LLC,0.9297,Manufacturing
+16SXMGXCEPRTISK9C4,"Wason, Radhakrishnan and Nanda",0.9614,Construction
+36DUPSSCBUUNQAP0H4,"Ahuja, Setty and Narayan",0.9319,Services
+95OSPBAJLMTJGAR9M2,Trivedi-Mallick,0.8918,Construction
+13RUEVWOZAEMSLF5Q7,Mody Inc,0.9539,Construction
+15WUZDLKFFYDXPG7W5,"Sha, Reddy and Pradhan",0.9139,Manufacturing
+12DSXQSOSDXKVBC1J6,"Parikh, Choudhury and Master",0.8928,Construction
+23XFWYJIZTONFKV0H5,Bandi-Lal,0.9159,Retail
+26FCEVWJZPBNYGO0K7,"Hegde, Tiwari and Sankaran",0.9135,Retail
+95YSQECIRADLJRE1T5,"Jha, Ratta and Kapur",0.9064,Construction
+25KRIYDFIVZYVJR3N5,Biswas Ltd,0.926,Retail
+42WSMGQJLIVPYCF2H5,Datta-Kumar,0.9121,Construction
+43EHPZADZNVKHRA2B9,Din Inc,0.9269,Construction
+06RDWTJBXEAGOZT8H6,Basak LLC,0.9586,Trading
+20RROCZCLYDXVIP3T9,"Sastry, Kannan and Lal",0.9858,Trading
+05CUVKYUFQDMIUA7A6,Rau-Bera,0.9116,Retail
+25VKLZYHWYMJVGO6P8,Khurana-Behl,0.919,Trading
+37ZAESMPUPWPQZC8W1,"Kaur, Kakar and Venkatesh",0.9057,Manufacturing
+79NZHXPFIOKLYAE3U0,Nayak-Chaudry,0.8835,Retail
+42CVUZJEAGWOISI8N7,Viswanathan-Rajagopalan,0.9335,Construction
+48WWSKGPNQBFUNP8C6,Choudhury and Sons,0.8928,Manufacturing
+28GKBXXWONEFONW6L3,Shetty and Sons,0.9439,Retail
+53GTZHDCRVKGAPO3N9,Ghose-Guha,0.9202,Construction
+84HTXVVMVVQFSMZ4E3,Tank-Kadakia,0.9033,Services
+68DDGSLHITFWPXV3F9,Sawhney Inc,0.8549,Services
+82YVXQVLLBZJMMX6J6,Verma-Kakar,0.9148,Trading
+18CWYRSBCDPBRRI4Z0,Kadakia-Parekh,0.9657,Retail
+55LZWEMBEJNZEYU0D2,Venkataraman Ltd,0.9015,Construction
+38NJBAHNTPCVJPF3B8,Deep-Kunda,0.8649,Manufacturing
+38BPBMWQGRUOKOX5R6,"Walla, Bhagat and Nadig",0.9148,Services
+45GQXIYEPCXVNSH1V5,Biswas-Sehgal,0.9587,Construction
+55EVPHQLNWNVMXY5C1,Ganesan Group,0.9426,Retail
+23LVIDLALHDLYGB4S7,"Ramakrishnan, Pau and Mangat",0.9244,Retail
+84UINTRCQANABBB8V5,Mutti and Sons,0.9295,Manufacturing
+62PWIWSGBCZQOEX7D7,Deo Inc,0.9212,Retail
+19WMAFPRZYUXUYG7B9,Kari-Natarajan,0.8891,Services
+65FOGQVZTRBTUJE7K1,Guha Inc,0.9202,Services
+81HFBDJPZMXOXDQ2J0,Singhal-Gokhale,0.9852,Construction
+65WXTABPDYDVJOI9R5,"Oommen, Raj and Date",0.9354,Services
+19PFYZISLMBLLKA1E5,"Mital, Din and De",0.9381,Manufacturing
+14PYSJKETUUAMYL2N1,Mistry Group,0.9248,Retail
+22LMGMHBSFLLFCB3L1,"Gala, Koshy and Gill",0.9539,Trading
+55DPNHVYAKFWJIW3I2,"Contractor, Sura and Sundaram",0.9054,Construction
+29RTHMWTLETNYZG0H9,"Desai, Pal and Seth",0.9017,Construction
+25WLVILBUDLHNRZ4M3,Ramakrishnan PLC,0.9636,Trading
+16NSYFWJLUAGXVD2E8,Suri Inc,0.9384,Services
+19CADMCIXQYBWXL6B8,Ratta-Som,0.9048,Services
+83TJQJYNMKJQDDO2I5,Mishra Inc,0.9039,Construction
+19XWSRWTXFLTLBR0L0,"Narula, Sachar and Bains",0.9148,Trading
+91BYAYVLLANOKIH0H1,Dora and Sons,0.9005,Manufacturing
+88GGDETEGRCBKLO5T6,Sridhar Inc,0.9039,Manufacturing
+93DLDPYHSJABHVC5J2,Pillay-Amble,0.9265,Services
+71DOGDQZUINFVAC7C0,Johal Ltd,0.9558,Manufacturing
+34YMVYWRIXPPUDK4G1,Rout and Sons,0.9033,Trading
+30NQXDXNXNUZSDB0X1,Keer-Krishna,0.8995,Retail
+01IYXYEEQMBHVSW7T8,"Srinivas, Dhar and Dhar",0.9132,Construction
+19XLWOKZFYHGJLU9J6,Sankaran LLC,0.9715,Trading
+05RPDZNEHYOOOQJ6I2,Khalsa and Sons,0.8632,Manufacturing
+62HUKXIVVIUTBDG0U7,Borde and Sons,0.8939,Manufacturing
+46SKROVRFHECANJ8F5,Kumer and Sons,0.9356,Manufacturing
+69FMGOQUGVWSDKT3E0,"Sood, Uppal and Brar",0.9549,Retail
+26QTNCCWHRRYSFL5K4,Iyer LLC,0.9186,Services
+42JTBTSZRZRQEZZ7G7,"Peri, Chaudry and Datta",0.9083,Services
+22UZWSJMMOMZXFX1H2,Mani-Choudhury,0.9195,Services
+33BWHFSXDRULHZW7E5,Gala PLC,0.9117,Trading
+12SRMNGFREDDQCD2P2,"Jaggi, Bains and Kannan",0.9054,Trading
+61XZSAXYFOGJOXC0M3,"Sane, Guha and Ram",0.9532,Construction
+94QYFCRATATOCKG8R3,Narain-Patel,0.9087,Trading
+34IOOBAQHTHPGAB6C4,Raj-Purohit,0.9299,Services
+77WSAFMMQVQDXWY5V2,"Balay, Bhavsar and Ganguly",0.9224,Retail
+96XZVCISXDDPOHX4A9,"Divan, Mahajan and Choudhury",0.923,Manufacturing
+59UATLUVHMGGWVX2Z9,"Agate, Narayanan and Pathak",0.9175,Retail
+71OININKKVOJFVM6N6,"Baria, Nadig and Cherian",0.9072,Retail
+18LPIHMHZZIGFFB2A5,Thaman-Hegde,0.9222,Manufacturing
+35WYIALPBQOYSID8N2,Mammen-Ahluwalia,0.9433,Manufacturing
+07CYODEEVPRSHMO8F3,Mutti PLC,0.955,Trading
+55PHNSIZIQWHOVG4S1,"Gill, Basak and Agate",0.9328,Manufacturing
+89QAWIWQYUAPAHV1G7,Subramaniam-Korpal,0.9539,Services
+71GDLMKWCAGVPJH1N0,"Raval, Sastry and Patel",0.9303,Services
+97MSVXYYSVIQDSP4K4,Kala LLC,0.9616,Retail
+63EYIFUPPZHSEFE4Q1,Yohannan LLC,0.9459,Manufacturing
+16BNZOSORXFJELB4W5,"Sachdev, Dhaliwal and Sethi",0.896,Retail
+32ITDSJNIEKVGFN8N8,Sami and Sons,0.8981,Services
+75KWBKYQHYHORHF3J7,"Shanker, Mand and Behl",0.9449,Construction
+01IELNZBBOANCHG3Q0,"Dey, Batta and Virk",0.8798,Trading
+12IIQHGUJPBHVYW6J0,De PLC,0.9524,Trading
+37WCUSANPUCLJRS2J7,Lall PLC,0.9491,Construction
+04VRMAVXPXJALSR2I6,"Bava, Kakar and Anand",0.9127,Retail
+09WOTLSNVPVDNGN0L5,Guha Group,0.9322,Services
+60RJHQPUSETUHXJ6Q1,"Morar, Majumdar and Hayre",0.9358,Trading
+73SKRFQGVTEAPDL2D8,Sarraf Inc,0.9151,Construction
+47QSTJDRLXXARQQ6N7,Banik-Venkataraman,0.9046,Retail
+71TJYNDVRYGIKSO3T1,Ghosh Inc,0.933,Services
+71CQSHWETMXKBEG1M5,Balakrishnan and Sons,0.9423,Manufacturing
+28NUHCXQQCBRKOX0Q6,"Kara, Brahmbhatt and Karan",0.903,Trading
+45PZTXMGPSDZALV6V0,"Ghosh, Bali and Hayre",0.9297,Retail
+39PMINRZDSCACUH7K9,"Barad, Kalla and Hari",0.8983,Services
+20KRAMYTWSJKXYB4V3,"Korpal, Lad and Kale",0.9234,Construction
+63WYFMWPHAPMHZE2A9,Naidu-Mittal,0.8999,Retail
+35DLJHBOCZFMEYB3S8,Brar Ltd,0.9061,Services
+39RFKFNNUJWNUDW3S3,"Chad, Raja and Lala",0.9368,Trading
+04RINEOECXFYFLW2X7,"Hari, Ratti and Datta",0.9602,Retail
+51GQDPMKNPGRLNS2B2,Gade Group,0.981,Construction
+07IECWHUTBDYDRD7C1,"Panchal, Shan and Master",0.937,Services
+23WFANUOILTCZCB3G3,"Palla, Chatterjee and Das",0.8849,Construction
+64DAFLAJRFQFOND4B7,Dutta Inc,0.8994,Retail
+08CVOSCOBJNASLL8F4,"Barad, Chakrabarti and Nath",0.9145,Manufacturing
+39GTVLZWYNEQHFD6Q5,"Master, Krishnan and Trivedi",0.9242,Trading
+68VUJZAIGIOQARY4F0,Dutt-Devi,0.9064,Construction
+73LLRYEGICFLTYR5W7,"Bhardwaj, Mandal and Batta",0.8849,Services
+07PSYZRLXAKNEUJ6D3,Dhar and Sons,0.933,Retail
+50AKQTYSZRWEHNL0I9,Goel-Bhatti,0.9507,Manufacturing
+96YOFHJYWETLKMZ7L8,Bir-Nagarajan,0.9268,Services
+25MBANPQQWXJFJN4P7,Agrawal-Dua,0.8714,Services
+94VPTEPHDYMVZNE7L6,Prashad PLC,0.8836,Services
+05JUXAEOUHCCBIC2X1,"Keer, Mitra and Ramaswamy",0.9365,Construction
+82RSSSHXURIZBIX8F7,"Parmar, Lanka and Chadha",0.9139,Trading
+42YKMFPCKIHVPTT2K5,"Chaudhari, Shah and Sawhney",0.9322,Construction
+28YLODTFBWEMZSE3P3,"Tella, Memon and Bhasin",0.9283,Trading
+01NOMDZEXMKPVMP6C6,"Warrior, Chaudhuri and Suri",0.9189,Manufacturing
+05ELLBOEHPJZYRB0D5,"Rajagopal, Dhar and Madan",0.9416,Services
+16HPQKKXDNBTJIX8Y3,Mody Ltd,0.8786,Retail
+65OEIXGDBIMHEFO8L8,Mangal-Pall,0.9463,Services
+43GNSCMUKJZPWAA3X5,"Balan, Kumar and Sur",0.906,Retail
+55YAXASUKGNWWJQ9A7,"Lal, Ravel and Ramesh",0.9418,Services
+98NULGGJWYKUZAB7K1,Bir LLC,0.9446,Construction
+95YNFWCHUXGAYUC6I0,Batra-Baral,0.9064,Retail
+06TCXWXCYGYGWSJ3U1,"Seshadri, Agate and Natt",0.9579,Trading
+05ZJGTSFILIBJBV4E6,Prakash Inc,0.885,Trading
+38VIEKBUVDSFUQQ1Z8,Sridhar Group,0.8917,Services
+09TMRBORJGRMXYP4Y5,Bala Ltd,0.8946,Retail
+96BNURSWKAHBBPP1Y0,Kibe-Keer,0.9465,Retail
+06OBGEYPSSFRLDZ2P9,Balay-Acharya,0.9229,Retail
+29LYBWDXITWLRLN8R8,Nigam Group,0.9657,Services
+36OUZCVGOJDGZWJ8W7,Kar PLC,0.9099,Manufacturing
+17GVISZQTSLKXQJ2T8,Sharaf LLC,0.9484,Manufacturing
+23DABLFLEXNYJJC2F2,"Bahl, Barad and Setty",0.9439,Trading
+32GLCAOUKDATIAC8Y9,"Munshi, Bora and Badal",0.9028,Trading
+50GXFCWPFUABEQB3F7,Dar and Sons,0.9242,Services
+03LHVMFAYDPLKWR3G1,Kapur LLC,0.962,Retail
+27OSPWCMTDKBUWO0K3,Dhillon Inc,0.9547,Retail
+00RMFVXCTYKUFLS0H1,Minhas-Sodhi,0.8609,Retail
+62CLIZBFCOHUIGC4N2,Edwin Inc,0.9171,Construction
+54LVKOSTIKNMVXE4X8,Prakash PLC,0.8924,Retail
+23CNCTJIUDLMVON3R2,Vig Ltd,0.978,Services
+06QQAAASHBLHCAJ4B1,"Choudhury, Khatri and Salvi",0.9375,Manufacturing
+00ZKEJJMSLUNLUU9J9,Mangal PLC,0.8931,Manufacturing
+21QXXAIDVWDGIVP1J5,Pillay Ltd,0.9528,Construction
+59ORNSBYWNHHNIM0F4,"Kant, Mishra and Bath",0.9252,Manufacturing
+86IKCAJIMFJIKDL9U3,Kara-Raman,0.9381,Construction
+75IOPYJRZPSVSGA9M4,Bala Inc,0.962,Services
+91DZCWUMDCQKWAE8H5,"Mani, Puri and Parmar",0.9678,Construction
+55TYOKTUXLZRYQL1X5,Dutt PLC,0.9128,Construction
+77IUVBHNWDYISLU3A5,Banik-Boase,0.9591,Manufacturing
+16FWXRJREXXIIHC0O1,Mall Inc,0.9022,Retail
+98ITRCHJDWZWECZ9W0,Pillai-Chowdhury,0.8855,Manufacturing
+07JJJOXHFILYVFI6L8,"Dhawan, Amble and Sarna",0.89,Services
+29ZVCUUQGAYPUDS4S3,Subramaniam Group,0.9012,Trading
+62FZAEFEYUAGUQU1Q8,"Krishnamurthy, Grover and Garg",0.9749,Construction
+17PPPPFCWWWNFSF2X3,Srinivas-Palan,0.9337,Manufacturing
+01RGUDVMDABTUMH4D0,"Gandhi, Shanker and Bora",0.922,Construction
+23PWDCESDPFUQBB1W8,"Kala, Sangha and Jayaraman",0.8904,Services
+88AEEWJYMLXJYQT8O6,Karnik Inc,0.9111,Manufacturing
+30PYFDXBQVNNECL0L8,"Raja, Mangal and Narayanan",0.8882,Services
+98QSWMWJJKKKVQZ3S8,Sibal-Saha,0.9295,Services
+37DOXGBUDSNXQQQ0H4,Wagle and Sons,0.9089,Trading
+09LTRKCIHZGODTD8S7,"Barad, Tiwari and Dasgupta",0.9565,Manufacturing
+97AGXNEARSDSSMU8E7,Mishra-Sekhon,0.9105,Manufacturing
+61YVULFLHVAMTDQ7I0,Dara LLC,0.9671,Retail
+46HTHYSMQBHGJJM5H3,"De, Sachar and Deo",0.9215,Manufacturing
+44MIRBXNNNHNMCM9R1,Vohra Ltd,0.922,Retail
+24MCIZBSUMVQFTH9L3,"Talwar, Barman and Patil",0.9121,Services
+59ZSJJXGLDETLRQ1N3,"Khanna, Kashyap and Lad",0.9526,Retail
+35WTAMOZHHTLSQS2B2,"Rana, Shenoy and Chauhan",0.9729,Services
+62TRFELTYPIHONC2A3,Trivedi-Mahal,0.9282,Manufacturing
+47JKYRSNMNCZVUD4C0,"Raval, Gupta and Sem",0.9614,Trading
+26HAJGGPBAYJNRU0N7,Verma-Thakkar,0.988,Trading
+95RJFGABQDLJEWT0R9,Venkatesh PLC,0.9828,Trading
+90IMBHPHIHPHKMP8L9,Shah Ltd,0.9466,Trading
+79QAXZFZBMGNCGW8F9,"Sodhi, Mishra and Konda",0.9113,Services
+63XSSPNKRHRHREP0A3,Rout-Basak,0.9258,Retail
+95BIMUVRJNMPCXL8L9,Barad and Sons,0.9555,Manufacturing
+04RCTBMQDOXADHG3Z6,Dora-Virk,0.9224,Construction
+23WSHKMVZWBBKEG3R6,Tata Ltd,0.9457,Retail
+62DOMZOHHALEUML9M4,Nazareth-Narang,0.926,Manufacturing
+10EWAEOXYEZWXFD7W3,Apte-Bhalla,0.9288,Manufacturing
+82SKFOKBXZFJUTK8S0,Nagy-Mannan,0.9001,Services
+96IXKTKCHMCZAAH8B1,"Samra, Tiwari and Sekhon",0.9165,Construction
+16HKOIMXFXBJDAE9T5,Magar-Bakshi,0.9137,Construction
+00AIWDDMCSVGLBJ5A2,Om Inc,0.9078,Trading
+45XHABPSLVVVNTL8B1,Chander Inc,0.9225,Retail
+76YESGURZKXTEOF2B2,"Mukherjee, Goyal and Maharaj",0.9232,Retail
+43SVFUVSFQYUTKN5L6,Devan Ltd,0.8781,Trading
+43BGKDHZSXRTUYU9K5,"Madan, Balan and Lata",0.9096,Manufacturing
+70LMCQNUFWSWFIC2A7,"Subramanian, Pingle and Dara",0.9198,Retail
+14CJZTZIVIGUBLC7L0,"More, Pandya and Iyengar",0.9984,Services
+44EVNTOUPGABVSF6T7,Varty LLC,0.9177,Manufacturing
+79TPMHRRBJOESIK9I9,Om Group,0.9125,Manufacturing
+56AJSCGLFWIJAVD5O9,"Savant, Chaudhari and Chatterjee",0.95,Trading
+94YAPVQWGZVPOLJ6B9,Sharaf PLC,0.8588,Retail
+20HWWCCZNAIBIRP5W8,Raja Inc,0.9057,Services
+35HEJXXZKMXCFTS0A0,Sha-Sodhi,0.9511,Construction
+04DDJFSZQWNSVQM3F9,Viswanathan-Kulkarni,0.8727,Services
+05MTPXQPSZMZLCO1A6,Chanda Inc,0.9257,Manufacturing
+93FKHGCTYPIDHXA6D0,Bakshi LLC,0.9583,Services
+89OIHTEQIXGHXOK3Y2,Ray-Suri,0.924,Retail
+55ABFZIGARXEYYX0E0,"Parikh, Virk and Thaker",0.9674,Trading
+59YSXJWWTPZUYNT5A0,"Jha, Savant and Chawla",0.884,Trading
+61QXLGVSHYUDGYC1G6,Deo and Sons,0.8816,Manufacturing
+88ZPXNJYWFDRKIR5K5,Ravel-Sandhu,0.9396,Retail
+50OCGOSYFQVSUFF0M3,"Om, Mukherjee and Sahni",0.9231,Retail
+51XJMODUBXUTHYR6R2,Lad and Sons,0.9108,Retail
+34ZUHJHYGIYHROJ0Q5,Buch-Dhawan,0.896,Services
+66YSIAPRVCFCLQR7U3,Murthy PLC,0.9433,Trading
+43NNVWRALWBAETD9D5,Gera LLC,0.9116,Manufacturing
+57SMOWKYLODAZQI0F5,Halder Inc,0.9054,Retail
+29IBTNGWKCPGHWR6A2,Shankar Inc,0.928,Construction
+34UQWQLTBLEWJEM9I3,"Hayer, Mishra and Mody",0.9012,Services
+66HVWRNWEMNXXJG8Y5,"Manne, Chaudhry and Dugal",0.9634,Manufacturing
+88QLNQUUFWODEQB3A9,"Mann, Wagle and Sankar",0.8888,Retail
+47KJMAQENBGYLIG7J2,"Borra, Kaul and Randhawa",0.921,Construction
+15CSQRDRPRFSZYK5N9,Viswanathan-Ganesan,0.9251,Construction
+17BQZWKXYKKOMMG6A8,Shenoy and Sons,0.897,Manufacturing
+45QBDASOBDPIDZV6L8,"Banik, Amble and Jaggi",0.9214,Manufacturing
+91HKKNOLBMGKAJI5N4,"Dalal, Dash and Bedi",0.9289,Manufacturing
+18LVOOXGGQZUYOI4N0,Randhawa Inc,0.9728,Trading
+67IBMHTTZYVQJOM5M4,Deol PLC,0.9209,Trading
+44GQXHFMMKZBKIB8S9,Krishnan Ltd,0.9476,Services
+20GXTVRLWOMYHNY0I2,Purohit-Saraf,0.8988,Trading
+23GEMBBURCFKTKS7B1,"Nadig, Ramakrishnan and Sabharwal",0.9031,Services
+57VUPLXZIGRPGAB6O5,Sha Ltd,0.9561,Services
+17YXUJAOSBICQZH4A1,Kata-Lad,0.9586,Trading
+97SSJTJGDQWXBLO5B0,Borah-Seth,0.89,Retail
+50KJXLJFTTGYNVU8Z3,Sandhu Ltd,0.9067,Services
+09GTFPPJLBIFSKI7K6,Kaul LLC,0.8837,Manufacturing
+99ZUABABGAVSDRA3M5,"Hora, Gupta and Kapur",0.934,Trading
+31UWIZTHSTRIJEH2F1,Kashyap PLC,0.9675,Manufacturing
+34RSWPDSNENBFJK3R6,Bath-Bath,0.9091,Services
+14LJIMXXDYXQPQI5D8,Krishna and Sons,0.9455,Retail
+50KBFOOFTGBEAYZ9V0,Borah-Goda,0.9366,Manufacturing
+59UBPNGRPHZUROQ1V3,"Walla, Sachdev and Rama",0.9205,Trading
+71WCMIRGDRQQAPB5N3,Chauhan Inc,0.9376,Manufacturing
+27MITQHTHSWHUEQ2B9,Sengupta-Goel,0.8883,Retail
+49UDHITHWOAJUOQ5C1,Atwal and Sons,0.9955,Retail
+93VUUPGNFHXXTFB0Z4,Deep-Pandya,0.9371,Manufacturing
+93VDEEHFEQINFVK2N9,"Varty, Yadav and Vohra",0.953,Manufacturing
+43TFQHPGTHXCRHG9F2,"Singhal, Soni and More",0.9262,Manufacturing
+77RDBQLDWLXGMWY4L8,"Gade, Apte and Dasgupta",0.9778,Construction
+60ESLYRTCLQFTKV4N6,Chauhan Inc,0.8788,Manufacturing
+81HLQMUSWARJHHQ8A4,Wadhwa-Bhargava,0.8643,Manufacturing
+32XWTQKJGXOFOLQ3P6,Ramesh and Sons,0.9185,Services
+65BEKEIUVUPOYAO1Q1,Dhaliwal LLC,0.8963,Trading
+87LTEQLGTJRSGYS3E7,"Ratta, Sharma and Prakash",0.8938,Manufacturing
+14XSEGSFVTPORIC7L2,Kakar-Dugal,0.9338,Construction
+37NWFRKKMDYZNIY2P9,"Raman, Krishnamurthy and Barad",0.9324,Construction
+31XCDTXNITVQDIY5A5,Ratta LLC,0.9143,Construction
+74MVXOKDLVPDOPJ7L6,Oak Inc,0.9065,Retail
+03SNGBNKFZNTWJM5V2,"Sandhu, Kara and Mani",0.9198,Services
+98QTIFIWFQGPLMC0U9,Ramakrishnan-Nagi,0.9746,Construction
+90LGXJKXZKBLERQ7M0,Shankar-Garg,0.9288,Manufacturing
+49MQFBQTYFGZBKN1M5,"Dua, Amble and Kumer",0.8851,Retail
+93CPKWRTRSFQFNW5R7,Sem Inc,0.9066,Retail
+61NVYXWOZIJEEJR6Z9,"Nigam, Contractor and Merchant",0.9395,Retail
+63DWWOTMELKFDOP7I5,Bera LLC,0.9043,Trading
+83WKKKWBQKCSUAA8U9,"Iyer, Upadhyay and Tiwari",0.9416,Trading
+47OHSOSLGWRWUDI0N7,Sarma LLC,0.954,Retail
+49XCRSJAVWDUWST8B5,Chander-Shanker,0.8666,Manufacturing
+15NNTLPCWTHNYEI9E2,D’Alia-Verma,0.8731,Retail
+62PTTOEWJWEGFRC6W6,Gade-Divan,0.9003,Manufacturing
+82GPBSMRTHIGGQC2F5,Konda PLC,0.9558,Construction
+00ECESHPCBUXSGU2I7,Narayan LLC,0.9263,Services
+30GRXHDGBUWKMCT7X0,"Sibal, Tailor and Sharaf",0.9342,Construction
+63NSKXMQNXHUMVU3G3,Suri-Ravi,0.8773,Trading
+27HPZKWKAXRHVNS1Q4,Loyal-Vora,0.9007,Trading
+49PLWBLGJBWLEKW6V2,Agarwal-Vyas,0.9341,Construction
+23KIAFIHWMCBNEN3Y0,"Bala, Mane and Narayan",0.9161,Retail
+93ZQGECNIYNPEXX6I5,"Venkatesh, Dua and Basak",0.9296,Trading
+44OLOGUTUUZZSZJ8Y8,"Goswami, Goda and Patla",0.9085,Manufacturing
+43EEAHQDXCKURCW7O1,Apte-Bhagat,0.9166,Construction
+45HPBLHYEFCTXNT6U2,Nori Ltd,0.9584,Services
+86SETIHHLOPUFXE4W8,"Padmanabhan, Loke and Hora",0.9364,Services
+77VVHPOYLSYCPFX2P4,Nath-Chauhan,0.9365,Retail
+63VZBBWITOGVOKU1Q7,"Malhotra, Acharya and Bora",0.9293,Services
+81DTWRCRVMNTTNK5Z9,"Anand, Varghese and Shere",0.8924,Services
+41VINYSBCUBWMHR0E5,"Chadha, Kanda and Kaul",0.9578,Services
+38ZLYQUZCVJGTHZ6Z2,Balay Ltd,0.8696,Construction
+12NBIKEDPBSAPNM0Y2,"Bains, Rege and Vig",0.9169,Retail
+69GCBNEYLVNULQF3D6,Khosla Inc,0.9411,Manufacturing
+75HNAJYJDZLRNTH0K1,Raja-Hans,0.9401,Construction
+15VNALGYQVZZNJZ1D2,Sha Inc,0.9354,Trading
+06FWSIWRVRWMPBX2L0,Aurora-Virk,0.9827,Construction
+82EKYOBUEGACIZH4D4,"Hayre, Bhattacharyya and Anand",0.9431,Services
+28GALEIKXTAEOMM5F8,"Vig, Mitter and Tandon",0.8943,Services
+74OWUXTKUVBPOVU1V9,"Chaudhuri, Pal and Badami",0.8771,Services
+76TDZFXZXATTMQL1Z4,"Arora, Mannan and Puri",0.8897,Manufacturing
+26GGQINDGTMCZWH7V4,"Kulkarni, Tak and Krishnamurthy",0.9145,Trading
+07WLEDAVETUCONR6E0,"Pingle, Srinivasan and Gandhi",0.9663,Construction
+31VXOPAHQVUYAQI4V4,Sur and Sons,0.8811,Manufacturing
+62TGLFESTWVCDYF9W9,"Vora, Kale and Arya",0.9227,Manufacturing
+42XZRQWHQDAXBOP8Z5,Rana-Kala,0.9212,Services
+84KMQBFNMIBQMAI8U0,Bhasin-Mall,0.9609,Trading
+69SSVWKKXQRWAED2L2,Kale-Kade,0.9079,Manufacturing
+85LNKWNRJHWDBTH0E1,Dhar-Bhasin,0.973,Services
+29RHLSFMPOVKBUH9L0,Shroff LLC,0.9425,Construction
+09BDUSHJPHZOQQY4O7,Dora-Rajagopal,0.934,Trading
+91FEUJARDYNTRZW4Y2,Kala LLC,0.8925,Trading
+13PUNNWUHTLSRNP8O5,"Sachar, Viswanathan and Shan",0.9459,Services
+31ESYGOVBCUKDPY7F4,Sathe-Venkatesh,0.8881,Services
+22WVACLARJOEZJC1A0,"Minhas, Narayan and Rajagopal",0.9125,Retail
+96WGRKSOKSYYKLK1F8,Narasimhan-Puri,0.8847,Trading
+50KMMQZRYODJPCA1S5,Dhaliwal-Biswas,0.9738,Services
+75HKHHXIXBSPOGS0G2,"Dhingra, Venkataraman and Talwar",0.9076,Retail
+19JDAZYESQTCKUS5G2,Radhakrishnan and Sons,0.9053,Retail
+08PKUUFUJCSYGGL0S0,Merchant-Panchal,0.9017,Construction
+15SDLYOPLVNCIND4K8,Saini and Sons,0.9242,Construction
+20YESUBYYMAWESQ6V1,Dube PLC,0.966,Services
+78RRTKKCAKLTAYO6U6,Prasad Group,0.8895,Construction
+16YJGNWGHLGCRNZ9N7,Mukhopadhyay PLC,0.8797,Retail
+42GFHWZPGRBLDDX1Z3,Gola LLC,0.9468,Retail
+69XUFJKZTBRREFV6H4,"Basak, Dasgupta and Sundaram",0.9489,Construction
+37PYHTFSIEYVWAO2K4,Sen-Kashyap,0.9416,Trading
+68XUWOFWIDCGYGK5K9,"Sathe, Mishra and De",0.8863,Manufacturing
+28QKAJSSAYQFPXK5J9,Panchal-Bhagat,0.9449,Construction
+40MPRGDZSPLVNDL5P8,Manne PLC,0.9383,Trading
+34ANKDSFSGKKBXT7Y8,Mahajan Group,0.9553,Construction
+17MILPNJDSMOKHM2A7,"Karpe, Ratta and Khare",0.9103,Retail
+01QJANKEBHCKZPI9L2,"Maharaj, Choudhry and Bera",0.9399,Manufacturing
+60ZDIASFIIJMBJE6M4,Bera-Borra,0.9613,Manufacturing
+60AVZUDGDNTIVAB7I5,Radhakrishnan-Kale,0.9151,Trading
+73VGBIEKWQHBCUZ9Y1,Luthra and Sons,0.9054,Retail
+43BOBUGERCXKURP3W7,Rattan Group,0.8874,Trading
+84FGCDFQWQDUPNW0G5,Varughese Ltd,0.875,Manufacturing
+34KMFLMMFSIQVGI6P3,Bajwa-Sarkar,0.9087,Manufacturing
+15IIBSLTCCOPFNU4T0,Desai-Goel,0.9356,Services
+60NSADBCNIEPLHT9N6,Chacko-Sur,0.9392,Services
+47SQFIOGXGGLPQY0O3,Oza Inc,0.9707,Trading
+11NNTIPRPGOYNYT0R5,"Lala, Bhakta and Nadig",0.9522,Services
+31UBGLTQFJEIBYU9T9,"Narang, Sangha and Bala",0.9307,Retail
+20MFRVILABVNVUY2L7,Sabharwal-Panchal,0.9268,Construction
+80YCKNJISUGQUDD2C9,Gaba-Gill,0.9185,Trading
+87PYVHPUZONBBHT1G1,Toor-Wagle,0.9147,Services
+85UZCXATZAAXFCW9P6,Dasgupta Group,0.9352,Manufacturing
+70IMIMMGCOSJMZZ9A0,"Sharaf, Ramanathan and Ravi",0.9161,Trading
+42QREXLWCHBNFSR2Q8,"Bhatia, Kunda and Dubey",0.8852,Retail
+02IDYZTZROCJWZJ9L8,Deol Ltd,0.942,Retail
+55RPJPGJIHSXSXQ5G7,"Kaur, Taneja and Munshi",0.8873,Retail
+50TFTUFUPANMAZR4E3,Devi Inc,0.9214,Trading
+49AFJQFOIAAGOZD7R6,"Sekhon, Lalla and Swamy",0.9346,Trading
+48XBGVPFCDCMBND8C2,Kanda-Chaudry,0.8645,Construction
+95NXSRVHAOOXKZA0J6,Sharma and Sons,0.975,Trading
+79VHDAMGJJKWKBV9Y8,Sidhu-Goel,0.9485,Manufacturing
+68ECYUBTUEVLUMU0K6,Puri and Sons,0.8909,Services
+75SLNETRFATGYIP2Q3,"Taneja, Sinha and Anne",0.9089,Manufacturing
+87EDTTWUDXUBIUU8S1,Mammen-Malhotra,0.9215,Retail
+81CTZAPHSLFOERM9F0,"Shan, Kulkarni and Hora",0.9361,Construction
+73EAAFDPYFAURRG4A3,Bhagat Group,0.8757,Retail
+44BRVOHGNTBUTHJ6K3,"Prasad, Wali and Sankaran",0.8862,Services
+56NUMRLFQBZPLBN3K8,"Deshpande, Dara and Goswami",0.9205,Trading
+48VOXDWKOPQUPZF6T5,Deo Inc,0.9359,Retail
+54HZBESTQSDYHQF3B9,"Sathe, Banik and Ganesh",0.958,Construction
+92KLPENBPXONBKJ6O0,Raja-Wadhwa,0.8972,Trading
+99DRJRVBGCXQUYI3T4,"Madan, Dar and Char",0.9218,Services
+78GLCIKLUZLHXAJ2Y2,Mall LLC,0.9297,Services
+48OUORINYRJGNAF6R2,"Loyal, Virk and Sharaf",0.8876,Services
+99LIPEVVJJZHUIW9M6,"Arya, Patla and Peri",0.9144,Trading
+25NNKTQUEXAMXBS0S4,"Golla, Tara and Tank",0.9654,Manufacturing
+44JCVMVRABDUQQP6W9,"Agarwal, Yadav and Sarna",0.8835,Services
+60GWPQKIKGTKQEU5D4,"Shroff, Nazareth and Sood",0.9596,Services
+91ORMGDEDYSMVTT9R2,Badami-Wagle,0.9534,Manufacturing
+24JRCCPMDAZXWXX7S0,"Chakrabarti, Zacharia and Lal",0.9321,Services
+89DHSRKJKLCRJSV5L8,Saraf-Kant,0.9518,Construction
+26QYXXGWALNVTVR4F9,Wable LLC,0.9142,Trading
+19LLSLRRZWXYDBC5N7,Nair-Seshadri,0.8711,Trading
+15BFOJWZRTSVZWD7W8,Warrior Ltd,0.9092,Construction
+59PBINAONRAUJGA2L3,Wali PLC,0.886,Retail
+73MNMMMPVOASXGJ9V0,"Vasa, Doshi and Yogi",0.9273,Trading
+15GPOCUVWXXJPCC0T0,"Bains, Lala and Ganesan",0.8882,Manufacturing
+58EQQDJOEMVHKHK6T2,Rau-Panchal,0.958,Trading
+98CQGIGGWLAFEVD9T2,Madan-Wason,0.8959,Retail
+43MEKLNSFIAARTQ3Y9,Venkataraman Inc,0.957,Manufacturing
+59VPWWDNTZILTVH7Q3,Bhatnagar-Majumdar,0.9033,Manufacturing
+26XHHYIFBERZTVP0X6,"Basak, Bahl and Kumar",0.9432,Construction
+75HNDGXQWVXUGYD0J9,Lala-Chaudhuri,0.9453,Trading
+02DSGTBIGWBFPCS2K5,Sehgal Inc,0.9024,Retail
+11DSEVMHWJWXEWY1X4,Sami Group,0.927,Services
+91FDXJCLSNOHJYW6C6,Cherian Ltd,0.9557,Manufacturing
+60CNRKXERJQIANC4W9,"Kata, Bhatnagar and Mallick",0.9654,Construction
+35DJSLUEFVRRUHL2E8,"Seshadri, Iyengar and Bhat",0.9618,Manufacturing
+34BXMKPAPEECFGY5S3,Manda-Oak,0.9719,Manufacturing
+81RWOSEQTWCKCQI4H9,"Dhaliwal, Chad and Nayar",0.9172,Retail
+72SOVLUYGKMBNVV5J1,Malhotra Ltd,0.9105,Manufacturing
+01LXSXDJYMRJWQY0F9,D’Alia-Peri,0.9555,Services
+89DDLCDWPHUHQYQ7M4,"Chandra, Wadhwa and Merchant",0.9353,Trading
+15XYCFIKEICOLEW7E0,Rau-Sabharwal,0.9374,Construction
+29PSVRNBRCDDKYA0J1,Patel Group,0.8961,Construction
+37TWKUONWLPQKKA3R4,"Mander, Bhasin and Kapur",0.9328,Construction
+71ZVWTXEIYTWLXI1P5,"Batra, Sami and Bains",0.8812,Retail
+42TYNMVLCIFJLFN6X4,"Devi, Dhingra and Narain",0.9588,Construction
+54DHBPYOVZMQCLK6J1,Kamdar and Sons,0.9171,Construction
+59AEMKTUGUIUCUS0A1,"Memon, Patel and Sood",0.8999,Services
+49YSQOOKFRJRIEI1W8,"Buch, Chaudhry and Khanna",0.9373,Retail
+56NVVGBEGHJDKNW5I8,Doshi-Parmar,0.9752,Trading
+11VLYEAGIMLOFQT2L1,"Bhakta, Dey and Thaker",0.8995,Services
+15BOSAKVCLEDPXJ8U5,Kapur-Parsa,0.9931,Services
+11SCHQGBQLMSGYL5M0,Kurian Inc,0.9366,Manufacturing
+96BGJPVWITGPOUP0V1,Koshy and Sons,0.8875,Construction
+05MNICDSGOUOUWE9L3,Sathe-Sidhu,0.931,Construction
+85YNROZDUJTTCTQ6Z6,Saraf-Atwal,0.9819,Manufacturing
+54QYNEGHWWQUOGP1Q3,"Maharaj, Bhandari and Varkey",0.9337,Manufacturing
+19LAUYESBZFUATN4F3,Swaminathan Ltd,0.9112,Services
+94DVXRWSSHQUPVQ0T0,"Chandran, Dubey and Ganguly",0.9562,Services
+35ROXWTPUBFFENP0J2,Gara Inc,0.9132,Manufacturing
+32DEZNETVUZJLOZ6K7,Suresh Group,0.9253,Retail
+86YGRDACQMSUTBG2N9,Samra Ltd,0.9041,Retail
+30GKMGZOQHEYQKR5L9,Sarkar PLC,0.9536,Retail
+32FKCSTLRFSTXUO2A3,Sami-Narain,0.9283,Manufacturing
+31HHSAZYIWXOIDV9K0,Chahal-Kota,0.9467,Retail
+78WLUUHDUQVHDOZ6R0,Sastry and Sons,0.9608,Retail
+83QOZLEMACCSNBT2X7,Nori Ltd,0.876,Retail
+77LJSDLEJOVIBLR4K7,"Badal, Dada and Kalita",0.9736,Services
+19WDSZIDRXOQFFA7A1,Mall-Shan,0.9087,Services
+86VTGEGHVBLCAYR9O9,Vora-Bawa,0.9277,Construction
+53FBAFWGYFDKOYU5H2,"Kurian, Sant and Das",0.9208,Retail
+04XOOSHJYNRYRMG0O6,"Nagarajan, Ram and Wali",0.9497,Construction
+57VWYTUDECPLVOB1S1,Venkataraman Inc,0.9263,Services
+45JSAICZOKLIGJG9D0,"Mistry, Bhattacharyya and Sen",0.8898,Retail
+99CATPVVJAPKCPI1Q8,Contractor-Agate,0.9564,Services
+28HXKHDQYIXBQFH7I7,Bumb-Lata,0.8838,Services
+22PSKCOCHNPHDOT3P2,Bumb Group,0.9635,Manufacturing
+06VHDBLKLEVSANH4Q7,"Char, Ganesan and Pradhan",0.8947,Trading
+21YPVBYEZKSWFHH4Y7,"Chandran, Sanghvi and Sachdev",0.9507,Manufacturing
+10KHRVOTEXSNLDX7W3,Sastry-Palla,0.9483,Retail
+55XRZXQWVDUWNCQ4D2,Subramanian-Pingle,0.9653,Construction
+19MTFOYXRTKIYEB6H7,Sankar Ltd,0.8954,Manufacturing
+78NVKNKJAKCQMRV8F5,Ghosh LLC,0.9054,Services
+91IIZMNVVSJALJB4H9,Cherian LLC,0.8951,Construction
+29ERFIIKDQMXAQL6C7,"Tara, Soni and Dutta",0.8881,Services
+89YABMMKBXVFKYN7S3,"Subramanian, Dayal and Raja",0.8999,Trading
+98NERSGOFRQLQEW6U1,Hari-Raj,0.9216,Manufacturing
+17RFNPSONZZFCXF9N0,Sinha-Anand,0.8936,Manufacturing
+93IUXNENWHGSUCX0I0,"Pandya, Bahri and Dara",0.9331,Services
+17ZBMMDEBPKNUIF3T9,"Zachariah, Bal and Guha",0.9073,Retail
+58DTIWIMXMVUHIQ2B7,Sahni-Shenoy,0.909,Trading
+42XMFRJHOEWRASN2B1,Mani Inc,0.9341,Services
+96NZWUGICDXBOAP0Y8,Mitter Group,0.9006,Manufacturing
+70IPMNTHBYKZHPL0O2,Peri-Mann,0.9711,Services
+55PFHPSGGEWYEGN7V3,Arya-Gill,0.9345,Construction
+78ROLMUWNSAEABT5G2,Tella-Tara,0.925,Services
+85PTKKGPKSDMKLA8A5,"Bir, Badal and Uppal",0.8706,Manufacturing
+13DWOYLSZZKALWB7V5,Sahni Ltd,0.9246,Construction
+79YWSGTPEVWUKGA5Z9,"Dugar, Panchal and Bose",0.9008,Trading
+51PRMZDBGCYMQCC9C8,"Doctor, Baria and Nair",0.8916,Manufacturing
+88YSAYKOSIBCXZO9Y9,"Chahal, Bahri and Ramaswamy",0.9198,Manufacturing
+55FIORXIYXAQQUB0Q1,Ravi Inc,0.9862,Retail
+94SAOMZYXCYCLOF8L2,Kala LLC,0.9021,Manufacturing
+46BJKUMDTTTHVHN9Y7,Naik-Bhargava,0.9309,Trading
+97GLOYUUGYZOLWH8F9,Kadakia-Setty,0.9653,Manufacturing
+84WWHQNNYHIBRQZ7D8,"Sharma, Sampath and Nath",0.9692,Construction
+48RKQLRDBVPFOOU2W6,Bhalla-Chad,0.884,Services
+16LYYNRPRVXQIKT6T2,Ravel PLC,0.8945,Retail
+51LIWPKNJGTPYSE2B5,Babu-Sanghvi,0.9631,Construction
+61JRILNOOGLSPTK3K9,Sen LLC,0.92,Construction
+95SCGUWBXTZJGQY1F9,Jayaraman and Sons,1.0,Construction
+49IDJAWGVKDVEHW6B3,"Malhotra, Comar and Ratta",0.9652,Construction
+37GNVDKNBOIJIGW3U8,Sood-Prabhakar,0.9244,Services
+30EAKYHDHCKYCWR8D5,"Parikh, Zacharia and Hari",0.896,Services
+83VJBNVLWXJPRBN6M8,Kari-Radhakrishnan,0.9342,Trading
+04FKFIJXGBMDFOE5B8,Arya-Pau,0.8564,Manufacturing
+75JJVAFYCABUFLP1B6,Yogi and Sons,0.9189,Retail
+41QMZFJSNNAYEKX9M4,Dass and Sons,0.8982,Retail
+49DZLQGDQUPBWWO7J8,"Ramesh, Pingle and Shenoy",0.9005,Retail
+84COUOPRSIQBFBO9M3,"Deshmukh, Ratti and Karpe",0.9414,Manufacturing
+66XZBKPZKVNKCET3O6,Verma-Hans,0.9298,Manufacturing
+24AEYIRGJUPSAUX8Y9,Devan-Rajagopalan,0.9495,Retail
+74ZQTOZYWTZXWCI3W8,Rau-Buch,0.8944,Services
+26YBKELGMLJIIHP7D3,"Lala, Sekhon and Modi",0.892,Services
+19CKYHNCPUATFOL6M9,"Mallick, Natt and Jhaveri",0.9432,Trading
+54TIBEKUSTRKENQ4B5,"Lala, Prasad and Comar",0.897,Trading
+08FPTXCWHHQFJDA3T4,Sandal PLC,0.9076,Services
+53LQQBEUGUVCIKA6U3,"Puri, Bhardwaj and Jain",0.8873,Retail
+85FHMGXGMEOAUXD9Z0,Kothari-Balasubramanian,0.892,Trading
+48MDDSYVDDOHCPX0A1,Parmar PLC,0.901,Manufacturing
+40ARYKBRIXNGGZR5Q4,"Ganesan, Desai and Chandra",0.8936,Services
+23LEBFILVVGSLAI0E7,"Chander, Wali and Manda",0.9608,Construction
+87PDCPDTWCQALEF1C0,Banik-Rao,0.9419,Services
+00JTHAWWGEJYGRR9K9,Bhattacharyya and Sons,0.936,Construction
+55SQQKUPWNGOATN3V0,"Thakur, Dewan and Bajwa",0.885,Trading
+63SSUKJRWMMWJKI2T0,"Cherian, Sarna and Bora",0.9478,Construction
+11DKTKJLCVOKROX6B5,Pradhan Group,0.9174,Manufacturing
+51DHLFAUXVICRNL4Y3,Dugal LLC,0.9631,Retail
+65CIUNSNXVZMRGR7A0,Yohannan-Khare,0.956,Retail
+24CVJGQWYWEALAA7U9,Natarajan Inc,0.941,Construction
+84QIIDJLIEXLFLY7I7,"Naik, Dubey and Iyer",0.9202,Manufacturing
+50JGDMPLSQWNZAC8X3,"Batta, Sawhney and Bava",0.8876,Construction
+14IFFHECBSOBQSO9F5,Divan LLC,0.9496,Retail
+26QTDSTPVUYOIGR7I1,"Kibe, Ramesh and Seshadri",0.9565,Trading
+99BIQFJCJDRZBEL0T8,Murty-Ganesan,0.9137,Trading
+72YDLFBOONGVXVZ9J8,"Datta, Mahajan and Das",0.9716,Construction
+72ZVRGDIJBSVXNU1Y4,Chaudhary-Vasa,0.925,Retail
+04NSACMUIUAIRYO3D4,Vyas-Bassi,0.9541,Trading
+62NHZBZMNQAULFM1Y1,"Johal, Vaidya and Dhawan",0.892,Manufacturing
+53AACYNTPPRNBIX8A4,Wali and Sons,0.8865,Trading
+03FDZTUBAJQSAEX8S6,Dara Ltd,0.9497,Services
+75AZYDTKELOAZFQ8U3,Basu-Mittal,0.9543,Retail
+34MUMODQKMVDCNC7Q3,Patla-Upadhyay,0.9215,Manufacturing
+99BLZLCIEJKUFSF0H2,"Dutt, Borde and Deol",0.9368,Services
+27HSDBHTSMFIYGG4T7,"Kamdar, Dhar and Cherian",0.9565,Services
+14NGVDIMGAXVXRE3J5,Panchal-Datta,0.9415,Construction
+73GHDUCDGKAUSMD6C8,Chaudhuri-Kant,0.9364,Trading
+94DEANLDPBQFCDR1L2,"Rout, Anand and Srinivas",0.934,Construction
+00NVCZOZJRGUOWN3N6,Butala-Kunda,0.9585,Trading
+51LPSSZJOLWTJYR4D0,Handa PLC,0.9471,Construction
+53ZJTFLPVTKVXRZ8B7,Cheema and Sons,0.9217,Construction
+26LMHNKOUXLZJZE1T6,Mahal-Kumar,0.9235,Construction
+12ECRGPBXONFDSC1Y5,"Hayre, Narasimhan and Sarkar",0.9156,Manufacturing
+02VGCVAZPIMIJJO5W2,Lalla-Kadakia,0.9197,Retail
+63VYDIKEJASBOOD7B8,Sathe-Chadha,0.9806,Trading
+80EHFHDYYFOGPQJ6Q7,Chander-Ahuja,0.9648,Construction
+34DTGWSKMPTIIVY8R4,Shukla-Dewan,0.9658,Services
+31MGBBCZEWEYSLO0Q5,Hans-Tailor,0.8907,Manufacturing
+28VXJTJZDDMIGAO6C1,Sarma-Narasimhan,0.8728,Retail
+75KOFFNNSIBDJYM4J8,Cheema-Pingle,0.9298,Construction
+12DLZSPDAERBJWJ5L6,Varughese-Swamy,0.9101,Construction
+34OGKKKXXCEQTUU2K0,Karnik-Wali,0.9286,Retail
+52NPRVGBHENATXL3J3,"Tank, Bhakta and Ravel",0.9383,Construction
+24JSDADCWNYRBYB9D4,"Sheth, Konda and Seshadri",0.94,Retail
+94RDKAILQTOVGCO5Y7,Gupta-Barman,0.9599,Trading
+37LBRWFDSCUHECI5F3,Chokshi-Lal,0.893,Manufacturing
+75TITPWDXCHFJCJ7I4,"Gera, Tata and Venkatesh",0.9315,Construction
+12COOZCUHNHXBZZ3B2,"Lala, Mahal and Sarma",0.9118,Manufacturing
+63WAOKBEUOWXBVC1Y3,Devan PLC,0.93,Retail
+13MOJRCDDLWXHTD9Q9,"Rajan, Chaudhry and Parsa",0.9118,Trading
+61RULVUPZPOEEUH2R7,Tata-Nadkarni,0.9511,Manufacturing
+30YKBMOTPCPIQQU1O1,Divan and Sons,0.8681,Manufacturing
+92IDJTMMVLRQFKN0Y3,Muni Group,0.8987,Trading
+46FNHPTJHKLFWHC0P5,"Uppal, Naik and Seth",0.9421,Services
+64RIYPTGGRJQDQC1F3,Kant Ltd,0.9728,Trading
+62XCBTHZYXVPEKB5Z2,Malhotra-Kulkarni,0.9228,Construction
+74HDRYOEUTDREFR8B1,Narasimhan Group,0.9392,Trading
+69DXAEXDXGKGKSN9X0,Rajagopalan Ltd,0.9127,Services
+78BUCBASBJTKUQY7Y2,Comar-Mody,0.8993,Construction
+05YVMSQGXEFTHSI4K2,"Sawhney, Nath and Dash",0.9157,Trading
+23FQKOVMKLGZFMU4R6,"Ganesan, Jaggi and Biswas",0.9339,Construction
+48XUQJFKYKSYSRJ4C5,Bath-Din,0.9297,Services
+89GPQXRSSAGIDAH6A1,Sarraf-Puri,0.9384,Retail
+20IOBLKHBRPDUCY1M1,"Dasgupta, Sem and Chhabra",0.897,Retail
+40OMMZQUKLAEYMB7T9,Singhal-Thaman,0.9686,Services
+06IPFWPSAURYGMU9I6,"Nanda, Nigam and Ben",0.9313,Services
+97IRHBWZPLPLBIE9W3,"Yadav, Bail and Bahri",0.9387,Manufacturing
+52BAAKDNPFIZSZO6D9,Seth-Garg,0.9357,Construction
+56WIZSOJHEVAECW2D5,"Balakrishnan, Kamdar and Dube",0.9663,Manufacturing
+37TXKXAQGMKOBZK0A5,"Tailor, Date and Karpe",0.8969,Manufacturing
+02VIEQUBQQKPMDJ2T2,"Narain, Singhal and Bal",0.9284,Services
+02KNLJQLEWGUGIR8G1,Pau-Mangal,0.93,Services
+74RISKWEJCEFKVX3D7,"Swaminathan, Gill and Parekh",0.9349,Manufacturing
+40WFMYQNIMFGVDH9J1,Bal-Bassi,0.9477,Trading
+31VNWPYOZIFMITV2V3,Mannan PLC,0.8677,Retail
+92YSZZNOBKMPEBZ6X1,"Talwar, Lad and Bala",0.923,Construction
+95FASHWGAYTILNO2G6,"Nigam, Swaminathan and Dixit",0.9233,Manufacturing
+46DSEBPNGTEKEJK4W4,Kothari-Parikh,0.9361,Trading
+69JAHTDCPQEBFNK5I9,Bera-Oommen,0.9008,Manufacturing
+99QUXRQZNIMHCNK0P0,"Bhatt, Dhawan and Banerjee",0.8779,Services
+79KEOCXHKBPREOL5H7,Tak Group,0.9235,Retail
+67IYCJVUPYGZALF5E2,"Issac, Mohan and Savant",0.9254,Trading
+42LPCJROLDTKFDS0E7,"Upadhyay, Ghose and Kata",0.9349,Retail
+62MIBIFNNYMQXPX5S1,"Sarraf, Thaker and Kunda",0.9205,Trading
+67XUJRFSYJYMQOQ5A8,Shankar LLC,0.9221,Construction
+98ROCZWDLBZMGER3L9,Chandra-Goel,0.9303,Trading
+61JIWQZICZDJSKQ2J5,Bhakta LLC,0.9195,Manufacturing
+63TYYVMJRGYJZAQ0F2,Bajwa-Dhillon,0.9112,Trading
+94FGGXHFBFDZOCV0Y0,Kara Ltd,0.9801,Manufacturing
+00PUZWTMXKSVTIZ5V4,Datta LLC,0.9137,Services
+65CEZHBOGJXOJLS8R3,Merchant-Halder,0.9659,Trading
+38DMIHHXLWUZTUC9W4,Seth-Bhardwaj,0.9651,Construction
+98WCHLBEWMILWTK9P7,Sur-Dutt,0.9231,Trading
+03DQXXZMTNOAAKI4M0,"Kara, Ram and Nanda",0.9316,Construction
+49JLIGOOIRPWAHX8I3,Ramaswamy-Sangha,0.9666,Construction
+13ZBXIOKQYNOWJF5X2,Khanna Group,0.9313,Trading
+15SMMLQFZDLJTFG0M8,Parmar-Roy,0.9481,Trading
+45TEOIGYFOPCSFG5B9,"Kapur, Halder and Chakraborty",0.9448,Retail
+93BHABGRYVSUAMB0I0,Kar-Seth,0.906,Construction
+50DRKYANGKUMRYK7S2,Narain and Sons,0.8994,Services
+87JVXIASXXVJHMD1R8,Gera-Kade,0.9459,Retail
+15BSTWHEKGSNLIX2J6,"Sani, Bandi and Bava",0.8908,Construction
+11WSGZVBYILDNFT1T9,Parmer-Rana,0.9353,Retail
+29FGBBWMVABWQPQ4F8,Trivedi-Goswami,0.9247,Manufacturing
+73LTQENLOUGCGLD0I6,Ghosh-Barad,0.8938,Services
+61QASXMDDTIGJWM5I0,Thakur Inc,0.9055,Construction
+45MBHFLTWDIXZLJ9D2,Goyal-Om,0.9619,Retail
+33KIFSJYNVEJJHW0A6,Ganesan-Garde,0.9143,Construction
+21GDNNVQCTTGWJQ8F8,"Johal, Bansal and Sunder",0.9497,Trading
+68HZZGUHZNUWVJD6N7,Tripathi PLC,0.9196,Construction
+99FZXLTMYMXEVQU5G9,"Madan, Hayer and Walia",0.9118,Construction
+76HZSOFCWJLMPIW7V8,Nair and Sons,0.9217,Retail
+07UGRYOWNNJWTLH6C7,Prakash Inc,0.9384,Construction
+20CECHHCAUQYMKL5R2,Chhabra-Prashad,0.904,Retail
+16DYGIOUZAYOPWK9E4,"Jhaveri, Arora and Dey",0.9525,Trading
+10YHKSKWPZTRPNT5U0,Prakash-Bajwa,0.9675,Trading
+86JUBMOTJVEVMNR7M4,"Gupta, Cheema and Kalita",0.9672,Construction
+86EIEHSFVMWFTDK1E1,"Nigam, Brar and Sani",0.9137,Construction
+90QZPQWCCLPPSLG0B1,"Badal, Mani and Sachar",0.9287,Services
+77UUHAOTLPVDUTJ9I1,Madan Group,0.9129,Retail
+95OXUEQZGXCRKZJ8M0,"Yohannan, Saha and Dhar",0.9237,Manufacturing
+13UJVGEMFRCJJTF7R4,Chatterjee-Ganesh,0.915,Construction
+20DRRHKIAWRECVX9Y0,Peri Inc,0.9077,Construction
+03TIUWXSOROZYUN5S8,Varma PLC,0.908,Manufacturing
+03XLPZTTQZHKXJM8V3,"Kade, Ranganathan and Bhatia",0.9321,Services
+53QDGJTPICZMMNF3K1,"Sanghvi, Kurian and Raman",0.9442,Construction
+51YRZUIJGUMFTJQ2H1,Narayanan-Deol,0.9037,Trading
+20OQJWXXDHJMBSR8S3,Sankaran Ltd,0.9236,Services
+24CILKFVWUYSXVV5G4,Sethi-Hans,0.9871,Construction
+42HAWLIXDITONPS9M1,Magar LLC,0.9003,Retail
+87OZNVJUQEKHTBE2S7,"Chahal, Shenoy and Doctor",0.8996,Services
+13IQNUUCMMEAQEB4N4,"Kothari, Wali and Nayak",0.9249,Services
+02PYDGCKSGJJITA1G5,Dhar and Sons,0.9616,Manufacturing
+51NKGKWKSOSNZUL0G3,Deol-Pau,0.9002,Manufacturing
+63RFXAKXGVCCQLZ7Y8,Ravel LLC,0.88,Services
+78NLRUPZNPYGLOM9H6,"Varma, Kapoor and Ravel",0.8773,Services
+58FSLUKLNYUFXGA7V9,Ganesh LLC,0.9439,Construction
+65PWMQZZQKJVDSM9L2,Nayar-Bakshi,0.969,Services
+52SLUAZHPUMOBFG6K7,"Krish, Rama and Singhal",0.9282,Retail
+29GRAUFXLKITDHP5Z1,Varkey Inc,0.9381,Services
+63TSKKOKKTJOSOI0F4,Chaudhary-Sastry,0.923,Trading
+18AFCTFCKCXIWVU1A4,Sarma PLC,0.9803,Trading
+59ZGKNTFRWJUAKM5F2,"Rout, Rama and Kar",0.9276,Trading
+28QPTFFUOMSGHHL8Q1,"Kala, Dave and Nori",0.9006,Services
+35IJIZUGEVQPMHL3F6,Kamdar-Khurana,0.8775,Retail
+08XSFRDSAPPCPVA1N1,Kala PLC,0.9347,Trading
+76DDYYBCZSGXPST5J1,"Gill, Rajagopal and Tata",0.9176,Trading
+80NUUYXZYQIUTFV4U4,Nazareth-Vora,0.9623,Trading
+54VJFWPSHAHIOZG2M1,"Purohit, Panchal and Bhakta",0.9139,Manufacturing
+41ACXBYWPEGRRCB5B3,"Kannan, Kala and Kulkarni",0.9363,Manufacturing
+58EHQQRBJCLQZOZ6O6,"Tank, Deshmukh and Wadhwa",0.9187,Retail
+55INKVWQXMRNVKH7J0,"Menon, Chopra and Sama",0.9064,Trading
+63OGZPXEKEQHTAU9Q9,Shenoy-Chandra,0.8979,Retail
+79BGJVIEVYKNTFU9H6,Sawhney Ltd,0.924,Construction
+17UWPJDRHNGOSBM9N7,Thakur Ltd,0.9102,Services
+54XUMUDTELJVKCZ6H5,"Raman, Chand and Hegde",0.9215,Manufacturing
+70WHENCNKCULMOE3W9,"Warrior, Bains and Walia",0.9799,Construction
+96ACPPXRHSNDSQQ6I5,"Rajagopal, Radhakrishnan and Sharaf",0.9004,Services
+13FFNGOEZCBBVWS7X0,Doshi and Sons,0.9311,Construction
+96KOWUVXYMMLKLQ0R3,"Parmer, Menon and Kothari",0.9299,Retail
+94TRABUYCEIBKED3E6,Soni-Gole,0.9289,Construction
+86YXFDOTGDLIOJN0C3,Sodhi-Mannan,0.8682,Retail
+13JZSXODKLKJQMJ8K9,Chaudhary Inc,0.9183,Construction
+72XYNBZFAVPVNGM8T6,Zachariah-Kara,0.8919,Construction
+36FRNWSDSQFEUOX6O4,Bhakta-Sridhar,0.9534,Trading
+46TIVFDRFGJCSYR2H7,Sheth-Yogi,0.9035,Manufacturing
+23BMEQOLBPHTHST5C8,"Issac, Chawla and Nagi",0.8573,Retail
+68CMXGPGMMNXSSB3N5,"Dhingra, Naidu and Barad",0.9123,Services
+41VHPQXWETEYFYM6I1,"Wali, Bera and Deshpande",0.9616,Construction
+22KJEJJKHFJISSC1D4,Lad Inc,0.9172,Trading
+99FKMXJNGIWTVUF9E2,Pathak and Sons,0.9047,Manufacturing
+52CEIBLPGXOLPYR6P7,Sem-Manda,0.9166,Trading
+43VXJHXZBUHRQBT4I0,Chaudry-Bail,0.913,Retail
+72QVKYNIBHQXBJF5M3,Hora-Chanda,0.945,Services
+95CODNUVTFZMCQL7H7,Rau Ltd,0.9336,Services
+84RILTPHOKTAIFZ7F9,"Gara, Viswanathan and Srivastava",0.9095,Retail
+91TQSSBZVEXGLAZ6Z5,Barad-Borde,0.9499,Retail
+51AYWVUFBIUFBAQ9Y8,"Vig, Bali and Sathe",0.9587,Construction
+05WVQPPJINWFCOS4C1,"Yadav, Ravi and Hegde",0.8766,Retail
+21GKLYOOOAFCEBF0L0,Morar-Babu,0.964,Manufacturing
+83UEPRUQXZZGMFG3S3,"Narula, Bhatnagar and Madan",0.9027,Manufacturing
+82UXQWBXYTCYJQC2E0,"Natt, Bhandari and Sha",0.9402,Trading
+16BFZLLTHPUDTPJ1Z6,"Vaidya, Dani and Deep",0.8946,Services
+40TABVMQRWTWPWR3R9,Jha Inc,0.9073,Services
+61XROJDXEHLQUQW8A4,Mander-Balakrishnan,0.9244,Construction
+79QLFPMIACDUGOU0N9,Barad-Jhaveri,0.9702,Construction
+53WSLAWCHFTJGPW3B7,Devan-Rai,0.887,Services
+11KQKHJCNRSFNGR7W2,"Sathe, Thakur and Nath",0.9376,Retail
+51TDDQOXFQDRMEF8H2,Gade LLC,0.9298,Trading
+77PSYRMLXHNDWIF1I8,Karan LLC,0.9348,Manufacturing
+97EQTTDISTYHBMW5O1,Cherian-Saxena,0.9407,Trading
+95AFHETIIDDLRLP8W7,Mukhopadhyay Ltd,0.908,Retail
+63NVGEYFVNMVLHR2O0,Bali-Andra,0.9138,Manufacturing
+63CTBUYYBKMQLWB8P1,Walia-Vaidya,0.9111,Construction
+85XQEYTSZZYYQFT6O5,Virk-Seshadri,0.9363,Trading
+14NYOUSYEWFRRVW2N4,Gera-Sule,0.9012,Retail
+17UTMMIGOXWHVOH9O4,Reddy-Sharaf,0.9246,Trading
+40VHDRSRYTFDSMC1S0,Iyer Ltd,0.9083,Construction
+18ZROYGOYINHNWZ3A8,Babu-Parmar,0.9771,Construction
+50HMUMRACGGMAYJ8X7,Sani-Mohan,0.932,Manufacturing
+82SGSMSMTHUEPMO8A3,Sani PLC,0.946,Construction
+35CBGUVOLIGSQJJ5R1,Manne and Sons,0.94,Construction
+59LRMPBOFIDCQYL3V2,Balan-Pandit,0.9009,Retail
+54CUCSIKQBTORKX7S1,Pillai-Chander,0.9227,Trading
+98ZJYOQBCATKXQL0B9,Bhasin-Biswas,0.918,Services
+78SXDKJFOMQSWKT0C3,Palan-Patel,0.9792,Construction
+45EDVZMNFZVDTHI3X0,Khare-Mohanty,0.9338,Manufacturing
+44EXVEYCWOPONDW8S7,Mammen-Rajagopalan,0.954,Retail
+10KVZDBFRQRFSCN9P4,Garde-Om,0.9079,Services
+83FKNDULOSJRJDD8P1,Purohit-Bobal,0.9152,Retail
+18FHEDXJMPZNLJF6O0,"Sengupta, Solanki and Sood",0.9692,Construction
+52DFHBJYQIFGKZT2E8,Bath-Barman,0.9233,Trading
+15VMGJKNKDHFFTP5Z5,Korpal-Kanda,0.9561,Construction
+91PYNXCQJXRMNBR7I0,Chandran Ltd,0.9204,Construction
+58UDVXGDWJSAKMJ6V2,Barman-Basak,0.8922,Retail
+75NGBHJYUDPQMUA9O7,Seshadri PLC,0.9574,Construction
+24SQJJDLEMSEDHX1J9,Raja Group,0.9423,Manufacturing
+59QXZEWCHRMUSAT1J5,Gill Inc,0.9002,Retail
+82SCHPFHPUODVHZ2N5,"Chandra, Modi and Deshmukh",0.9263,Retail
+37UZJRTOLBNHSJD1C2,Dhaliwal-Pau,0.8949,Construction
+72LKQWPCAZBWFTN1E2,Lad-Sandhu,0.9082,Services
+20GKQIHVFMZIKAX0T8,"Patla, Patla and Agarwal",0.9392,Manufacturing
+57ZMDQDZVRJDGPS7X0,Varma-Prasad,0.9323,Trading
+64SXRORETMYPAJM5C1,Master Ltd,0.8639,Trading
+75KAHNCUPMINLZV6G4,"Wason, Mandal and Naidu",0.91,Manufacturing
+60CZQNQCRFZZKCX2V2,Naidu Group,0.9541,Services
+92HBSWPJGJAKVCC0M6,Sankaran and Sons,0.8898,Trading
+18ELCRAQFWNLISP3U0,Yohannan and Sons,0.8975,Manufacturing
+59UOQJQVLVEIEBJ2V9,"Lad, Mukhopadhyay and Mand",0.9007,Construction
+98XWAFPWEBXQMTN1S8,"Chand, Bhargava and Ben",0.8822,Manufacturing
+28SDGFHOACJKURG6I1,Bora-Vyas,0.8694,Retail
+87XYJIUJZUNKLST5R1,Deol Group,0.8893,Trading
+23MYMZLYUUMVHKE2S4,Gour-Kala,0.9542,Trading
+89WISJKQPRCFFLJ6H5,Hegde and Sons,0.9361,Services
+00SJOMCZLINQEXZ2S3,"Bajwa, Natt and Apte",0.8899,Trading
+60AKBJKKESGTOXS3M3,"Murty, Puri and Kala",0.9431,Retail
+64URQHNLZMMKBZZ5R6,Parekh PLC,0.9194,Retail
+78URZYSDQKRXEBW0V1,"Naik, Doctor and Mody",0.9172,Services
+52NVGSDJRVJZQRX8Y6,Tara LLC,0.9509,Trading
+95TZSBAHGDKCJUR8W3,"Narula, Hari and Dhillon",0.9066,Retail
+16IZLDCHYZPOHSD0Z3,Nagy-Mannan,0.9113,Manufacturing
+13QHQFGUCRIXJIN0L7,Prasad-Madan,0.9437,Services
+18ATEVBDFQARSAD4J4,Singhal-Sahota,0.8668,Manufacturing
+41JLTXIIQXDLVRT6G4,Shenoy PLC,0.9649,Retail
+42EEKMKVAWFNFGK0H5,Nigam Group,0.9438,Construction
+21TWLHANEPPUGIR0X5,Ravel and Sons,0.9227,Construction
+82AFPGIOALMTWHP1L0,Dubey Group,0.9382,Construction
+26TEITJEJFMQQAI0X9,Swamy-Pandit,0.9936,Retail
+42BBFUNPRYOWCOA3D1,"Malhotra, Kohli and Chaudhary",0.9616,Manufacturing
+66LSUICOUTIZJIZ9A4,Kala LLC,0.8838,Manufacturing
+90QZCUURCPHKTWT7H1,"Sanghvi, Kale and Thaman",0.9517,Manufacturing
+25OLOUPZTGVGHNS6B2,"Nagi, Balakrishnan and Dhingra",0.97,Trading
+19FQIFWGHJQIQCD9K4,Mangat PLC,0.9096,Trading
+03CTOMMEQDJXVSU1P4,Venkatesh and Sons,0.9681,Trading
+55JVGUTLMPHIHXM8T2,"Chadha, Balakrishnan and Gera",0.9129,Services
+28VLOKIVLKXMAMU0F2,Konda-Vyas,0.9343,Manufacturing
+25HQXYMKESWRQXG5D2,Kibe PLC,0.9878,Construction
+02HCZJTQZPOVDUW7W6,"Gulati, Baral and Vig",0.9707,Construction
+14FTIXDVBBCUYQU2I3,Gara-Mangal,0.9382,Services
+73UQPVIWITYLGYK0M2,"Reddy, Chandra and Savant",0.9271,Construction
+27HQMKXPUINTBVR6K2,Chaudhari-Om,0.9055,Construction
+69QYXIOHZZXKURJ4O8,Deo-Sidhu,0.9788,Trading
+55UBOEPXQGZLXDO6U3,Dar LLC,0.9548,Manufacturing
+24HPDEYZYEGUHVS5F7,Chaudhari PLC,0.9475,Manufacturing
+82FSJBASTVKJAVF3C4,Kapur Group,0.8984,Construction
+81ENHGRPEGMAAWX8S9,"Ratti, Sachar and Patel",0.8995,Manufacturing
+97VNGNFWIYWMNVP2R8,Kapadia-Wagle,0.9458,Retail
+26HKCMPBNLMEYOS8Q2,Bahl-Iyer,0.9422,Manufacturing
+58RPCEFMVNQZRDZ4D8,"Majumdar, Trivedi and Dhar",0.9172,Construction
+87YRJDTIKXBTONW9L0,Borde Inc,0.9484,Construction
+56WRWGZCRYLVGXO1L6,Dani Group,0.9062,Services
+41IDDNYBEQXUZHE5Q0,"Seth, Chana and Bora",0.9099,Retail
+05RMYPJMFHCTHUE6X8,Dhingra and Sons,0.934,Trading
+14WKQYGFOXBXGZK9L1,"Mannan, Upadhyay and Khanna",0.9163,Construction
+66PPYEPNGBGSRWH6O9,Srivastava-Bal,0.8951,Trading
+59FUKSXTYHVTPKO9A8,"Dugar, Joshi and Chander",0.9316,Retail
+14PWREVOYTCQPIP2M4,Mann-Narayanan,0.9292,Construction
+25WDHGGZYTRWBYF4T6,Dhillon LLC,0.9581,Manufacturing
+96RRSUQLWEWWNNR6S8,Majumdar-Basu,0.9709,Construction
+84FXTHTGCTYHKDQ8X8,"Samra, Sagar and Garg",0.8414,Manufacturing
+83YKHYTZDVLBQAX8T0,Oza-Venkatesh,0.9523,Construction
+82FWFGYHSUZCQKC0D3,"Chakraborty, Khosla and Sarin",0.9761,Services
+40HKJSJIMEELCXA8X6,Sant-Morar,0.9577,Services
+12TUECCHJUNZFPE4P6,Gandhi-Nair,0.9445,Services
+63BADHSRNIRUUGI0M8,"Taneja, Sagar and Prabhakar",0.9142,Retail
+97OUDYOHGZLCXMO2J1,Mand-Gade,0.9529,Trading
+92QBEDWVKWEUSSP7U0,"Toor, Dash and Swamy",0.9465,Trading
+73KCQWERJXAIAOO3Y0,Nagarajan-Parikh,0.9269,Trading
+54OGESQFZKZVSGY8R2,Kari-Tank,0.9284,Retail
+76NHFBDHURGCEVY4N6,Nagarajan-Borde,0.8973,Construction
+42OITVXSEXGHLAH2P6,"Kohli, Vaidya and Gole",0.9478,Construction
+95RCTTLJZFDEYMD6B5,"Sachdeva, Bala and Tailor",0.885,Retail
+62PJKBDZXYWSQID0U6,Loyal-Mani,0.8924,Construction
+71GNSXNESPTBHKO4X0,"Lanka, Dutta and Contractor",0.9338,Manufacturing
+11PXUQEMZVAIAAS6Q7,Sinha Ltd,0.95,Construction
+28AUUQMHIMFLKSU7A0,"Bajaj, Nori and Kalla",0.8829,Trading
+15WNLNONEFKBQNY7C4,Bajaj Group,0.9311,Construction
+09WKOYMJTSVWJXP8J5,"Parmer, Warrior and Lal",0.8964,Manufacturing
+97UQKNTSUNHSNRG9B9,Sami Ltd,0.9283,Services
+95ONHMVXYLJVADU3Z4,Sankaran PLC,0.8738,Manufacturing
+06LGFNPZHFUOUII4C3,"Kashyap, Dube and Dey",0.9362,Construction
+47LTVIEUKHVSVFT0Z8,Ray-Sarna,0.9455,Retail
+79FTTCLOHSJXBVJ5Y1,"D’Alia, Singhal and Gala",0.9102,Retail
+95OUKADHASOXAKK2L1,Thaker-Master,0.9035,Construction
+55ILIHADTKPBHOA2K8,Deshmukh-Lal,0.9342,Manufacturing
+51MCWGQBGISCKFS6K5,"Ratta, Murthy and Sharaf",0.9837,Manufacturing
+26PGTKMWHSMOJXE6E2,"Gala, Kala and Kala",0.9255,Manufacturing
+46RSVNSMDLIKDBI2B5,"Rana, Boase and Sodhi",0.9341,Manufacturing
+42SLMYDJADPQCHY5Z0,"Chand, Kumer and Dyal",0.9709,Trading
+69AEOXJIJRNDCIC1I3,"Ahluwalia, Cherian and Manne",0.9214,Manufacturing
+11HNJFYGCYFDVTU1H7,Dada-Padmanabhan,0.9648,Retail
+38JEJTBGGMMVYRR1J8,"Yogi, Mane and Naidu",0.8989,Retail
+76YFVBKCGFLNSNP5T4,Buch Inc,0.894,Services
+25QSYERBDRKHUHN1H6,Padmanabhan-Parmar,0.9111,Retail
